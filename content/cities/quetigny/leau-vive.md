@@ -1,5 +1,5 @@
 ---
-title: "L'eau Vive"
+title: "L'Eau Vive"
 url: /quetigny/leau-vive/
 shop: supermarché
 ---

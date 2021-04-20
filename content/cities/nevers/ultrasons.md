@@ -1,5 +1,5 @@
 ---
 title: "Ultrasons"
 url: /nevers/ultrasons/
-shop: shop
+shop: hifi
 ---
