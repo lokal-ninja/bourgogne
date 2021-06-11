@@ -1,6 +1,6 @@
 ---
 title: Neuilly-lès-Dijon
 url: /neuilly-les-dijon/
-latitude: 47.2797526
-longitude: 5.106789
+latitude: 47.280875
+longitude: 5.1102347
 ---

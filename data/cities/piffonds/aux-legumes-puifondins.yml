@@ -3,9 +3,9 @@ type: node
 latitude: 48.0674086
 longitude: 3.1174738000000004
 postcode: "89330"
-city: PIFFONDS
-street: "LIeu-dit Les Gauguins"
+city: Piffonds
+street: "Lieu-dit Les Gauguins"
 housenumber: 8
 phone: ""
 opening_hours: "Mercredi après-midi et samedi"
-website: "auxlegumespuifondins.fr"
+website: "https://auxlegumespuifondins.fr"
