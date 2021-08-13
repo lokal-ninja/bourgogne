@@ -1,5 +1,5 @@
 ---
-title: "bouquet gilles"
+title: "Bouquet Gilles"
 url: /la-ferte-loupiere/bouquet-gilles/
 shop: boucherie
 ---
