@@ -1,11 +1,11 @@
 id: 2921602071
 type: node
-latitude: 47.3139874
-longitude: 5.029906
+latitude: 47.313963900000005
+longitude: 5.0299727
 postcode: "21000"
 city: Dijon
 street: "Rue de l'Île"
-housenumber: 17
+housenumber: 
 phone: "+33 3 80 49 18 06"
 opening_hours: "Tu,We 10:00-12:00; Th-Sa 10:00-13:00,15:00-18:00"
 website: "http://www.labecaneajules.fr/"
