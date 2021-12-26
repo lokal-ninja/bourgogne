@@ -1,6 +1,6 @@
 ---
 title: Le Breuil
 url: /le-breuil/
-latitude: 47.097334700000005
-longitude: 4.228670800000001
+latitude: 47.252870900000005
+longitude: 3.9737648
 ---

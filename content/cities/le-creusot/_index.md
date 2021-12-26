@@ -1,6 +1,6 @@
 ---
 title: Le Creusot
 url: /le-creusot/
-latitude: 46.6412163
-longitude: 4.1880012
+latitude: 47.2972703
+longitude: 3.9373224000000002
 ---
