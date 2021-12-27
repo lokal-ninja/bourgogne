@@ -1,6 +1,6 @@
 ---
 title: Chemin-d'Aisey
 url: /chemin-daisey/
-latitude: 47.7407447
-longitude: 4.5646943
+latitude: 47.739
+longitude: 4.564
 ---

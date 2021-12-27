@@ -1,6 +1,6 @@
 ---
 title: Piffonds
 url: /piffonds/
-latitude: 48.0558057
-longitude: 3.1476270000000004
+latitude: 48.067
+longitude: 3.117
 ---

@@ -1,6 +1,6 @@
 ---
 title: Montceau-les-Mines
 url: /montceau-les-mines/
-latitude: 46.674045500000005
-longitude: 4.3631681
+latitude: 46.688
+longitude: 4.361
 ---

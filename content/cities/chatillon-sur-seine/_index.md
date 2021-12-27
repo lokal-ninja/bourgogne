@@ -1,6 +1,6 @@
 ---
 title: Châtillon-sur-Seine
 url: /chatillon-sur-seine/
-latitude: 47.8607467
-longitude: 4.5749139
+latitude: 47.88
+longitude: 4.563
 ---

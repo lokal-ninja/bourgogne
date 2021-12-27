@@ -1,6 +1,6 @@
 ---
 title: Montmelard
 url: /montmelard/
-latitude: 46.3316152
-longitude: 4.4097990000000005
+latitude: 46.331
+longitude: 4.41
 ---

@@ -1,6 +1,6 @@
 ---
 title: Saulieu
 url: /saulieu/
-latitude: 47.277517700000004
-longitude: 4.230692
+latitude: 47.279
+longitude: 4.229
 ---

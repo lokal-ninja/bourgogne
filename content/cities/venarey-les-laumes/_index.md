@@ -1,6 +1,6 @@
 ---
 title: Venarey-les-Laumes
 url: /venarey-les-laumes/
-latitude: 47.5421702
-longitude: 4.4464783
+latitude: 47.537
+longitude: 4.461
 ---

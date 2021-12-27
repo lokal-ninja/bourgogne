@@ -1,6 +1,6 @@
 ---
 title: Vaux d'Amognes
 url: /vaux-damognes/
-latitude: 
-longitude: 
+latitude: 47.057
+longitude: 3.307
 ---

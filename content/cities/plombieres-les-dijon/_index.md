@@ -1,6 +1,6 @@
 ---
 title: Plombières-lès-Dijon
 url: /plombieres-les-dijon/
-latitude: 47.339643800000005
-longitude: 4.9721576
+latitude: 47.34
+longitude: 4.973
 ---

@@ -1,6 +1,6 @@
 ---
 title: Sagy
 url: /sagy/
-latitude: 46.6008141
-longitude: 5.3101807
+latitude: 46.627
+longitude: 5.33
 ---

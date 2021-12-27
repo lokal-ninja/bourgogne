@@ -1,6 +1,6 @@
 ---
 title: SAINT GERMAIN DU BOIS
 url: /saint-germain-du-bois/
-latitude: 
-longitude: 
+latitude: 46.754
+longitude: 5.252
 ---

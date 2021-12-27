@@ -1,6 +1,6 @@
 ---
 title: Rouy
 url: /rouy/
-latitude: 47.3484752
-longitude: 3.8521178000000003
+latitude: 47.025
+longitude: 3.534
 ---

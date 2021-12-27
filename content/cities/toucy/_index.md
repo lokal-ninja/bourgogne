@@ -1,6 +1,6 @@
 ---
 title: Toucy
 url: /toucy/
-latitude: 47.733862900000005
-longitude: 3.2939186
+latitude: 47.734
+longitude: 3.294
 ---

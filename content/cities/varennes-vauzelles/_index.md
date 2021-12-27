@@ -1,6 +1,6 @@
 ---
 title: Varennes-Vauzelles
 url: /varennes-vauzelles/
-latitude: 
-longitude: 
+latitude: 47.008
+longitude: 3.152
 ---

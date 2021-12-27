@@ -1,6 +1,6 @@
 ---
 title: Cuiseaux
 url: /cuiseaux/
-latitude: 46.4937782
-longitude: 5.3887887
+latitude: 46.498
+longitude: 5.364
 ---

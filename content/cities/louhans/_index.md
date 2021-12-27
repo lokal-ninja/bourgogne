@@ -1,6 +1,6 @@
 ---
 title: Louhans
 url: /louhans/
-latitude: 46.6291425
-longitude: 5.2232175000000005
+latitude: 46.632
+longitude: 5.239
 ---

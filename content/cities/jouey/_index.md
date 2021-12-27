@@ -1,6 +1,6 @@
 ---
 title: Jouey
 url: /jouey/
-latitude: 47.15274
-longitude: 4.44653
+latitude: 47.176
+longitude: 4.429
 ---

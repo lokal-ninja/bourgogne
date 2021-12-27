@@ -1,6 +1,6 @@
 ---
 title: Sennecey-le-Grand
 url: /sennecey-le-grand/
-latitude: 46.640958700000006
-longitude: 4.869504
+latitude: 46.633
+longitude: 4.875
 ---

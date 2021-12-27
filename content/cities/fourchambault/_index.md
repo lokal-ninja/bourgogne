@@ -1,6 +1,6 @@
 ---
 title: Fourchambault
 url: /fourchambault/
-latitude: 47.017788
-longitude: 3.0827327
+latitude: 47.014
+longitude: 3.083
 ---

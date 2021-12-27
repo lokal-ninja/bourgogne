@@ -1,6 +1,6 @@
 ---
 title: Ravières
 url: /ravieres/
-latitude: 47.734892800000004
-longitude: 4.226958000000001
+latitude: 47.734
+longitude: 4.228
 ---

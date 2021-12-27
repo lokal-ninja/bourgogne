@@ -1,6 +1,6 @@
 ---
 title: Perrigny
 url: /perrigny/
-latitude: 47.7242693
-longitude: 3.9565392000000004
+latitude: 47.819
+longitude: 3.555
 ---

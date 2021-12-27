@@ -1,6 +1,6 @@
 ---
 title: Villiers-Louis
 url: /villiers-louis/
-latitude: 48.19077
-longitude: 3.4023600000000003
+latitude: 48.191
+longitude: 3.402
 ---

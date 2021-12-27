@@ -1,6 +1,6 @@
 ---
 title: Jouy
 url: /jouy/
-latitude: 48.1671916
-longitude: 2.975115
+latitude: 48.164
+longitude: 2.937
 ---

@@ -1,6 +1,6 @@
 ---
 title: Villy-en-Auxois
 url: /villy-en-auxois/
-latitude: 47.419470000000004
-longitude: 4.63415
+latitude: 47.421
+longitude: 4.636
 ---

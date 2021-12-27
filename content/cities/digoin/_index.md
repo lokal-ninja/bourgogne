@@ -1,6 +1,6 @@
 ---
 title: Digoin
 url: /digoin/
-latitude: 46.481042200000005
-longitude: 3.9786291
+latitude: 46.483
+longitude: 3.988
 ---

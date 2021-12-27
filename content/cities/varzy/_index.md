@@ -1,6 +1,6 @@
 ---
 title: Varzy
 url: /varzy/
-latitude: 47.3589895
-longitude: 3.3864431
+latitude: 47.358
+longitude: 3.387
 ---

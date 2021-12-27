@@ -1,6 +1,6 @@
 ---
 title: Givry
 url: /givry/
-latitude: 46.7831191
-longitude: 4.7432564
+latitude: 46.782
+longitude: 4.744
 ---

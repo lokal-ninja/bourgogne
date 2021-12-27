@@ -1,6 +1,6 @@
 ---
 title: Pommard
 url: /pommard/
-latitude: 47.008791900000006
-longitude: 4.7962295
+latitude: 47.009
+longitude: 4.797
 ---

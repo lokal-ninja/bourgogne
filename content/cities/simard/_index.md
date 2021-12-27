@@ -1,6 +1,6 @@
 ---
 title: Simard
 url: /simard/
-latitude: 46.720429900000006
-longitude: 5.1807553
+latitude: 46.72
+longitude: 5.18
 ---

@@ -1,6 +1,6 @@
 ---
 title: Sevrey
 url: /sevrey/
-latitude: 46.738291100000005
-longitude: 4.840874
+latitude: 46.744
+longitude: 4.85
 ---

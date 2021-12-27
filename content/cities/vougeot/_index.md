@@ -1,6 +1,6 @@
 ---
 title: Vougeot
 url: /vougeot/
-latitude: 47.177235200000005
-longitude: 4.964315200000001
+latitude: 47.178
+longitude: 4.964
 ---

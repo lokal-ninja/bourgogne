@@ -1,6 +1,6 @@
 ---
 title: Génelard
 url: /genelard/
-latitude: 46.580682700000004
-longitude: 4.2355945
+latitude: 46.582
+longitude: 4.235
 ---

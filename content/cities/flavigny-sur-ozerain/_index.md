@@ -1,6 +1,6 @@
 ---
 title: Flavigny-sur-Ozerain
 url: /flavigny-sur-ozerain/
-latitude: 47.5115497
-longitude: 4.5305141
+latitude: 47.511
+longitude: 4.533
 ---

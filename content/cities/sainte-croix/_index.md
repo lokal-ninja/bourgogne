@@ -1,6 +1,6 @@
 ---
 title: Sainte-Croix
 url: /sainte-croix/
-latitude: 
-longitude: 
+latitude: 46.569
+longitude: 5.248
 ---

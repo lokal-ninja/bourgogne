@@ -1,6 +1,6 @@
 ---
 title: Cravant
 url: /cravant/
-latitude: 47.6839847
-longitude: 3.6898895
+latitude: 47.682
+longitude: 3.689
 ---

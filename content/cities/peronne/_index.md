@@ -1,6 +1,6 @@
 ---
 title: Péronne
 url: /peronne/
-latitude: 46.438532200000004
-longitude: 4.809629500000001
+latitude: 46.436
+longitude: 4.801
 ---

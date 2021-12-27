@@ -1,6 +1,6 @@
 ---
 title: Fleurey-Sur-Ouche
 url: /fleurey-sur-ouche/
-latitude: 
-longitude: 
+latitude: 47.309
+longitude: 4.859
 ---

@@ -1,6 +1,6 @@
 ---
 title: Saint-Père
 url: /saint-pere/
-latitude: 47.4129358
-longitude: 2.9618907
+latitude: 47.461
+longitude: 3.764
 ---

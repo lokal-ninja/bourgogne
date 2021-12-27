@@ -1,6 +1,6 @@
 ---
 title: Sombernon
 url: /sombernon/
-latitude: 47.308961100000005
-longitude: 4.7099015
+latitude: 47.308
+longitude: 4.708
 ---

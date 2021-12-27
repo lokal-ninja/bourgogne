@@ -1,6 +1,6 @@
 ---
 title: Chardonnay
 url: /chardonnay/
-latitude: 46.5097977
-longitude: 4.862258000000001
+latitude: 46.508
+longitude: 4.866
 ---

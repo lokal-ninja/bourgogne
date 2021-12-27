@@ -1,6 +1,6 @@
 ---
 title: Mâcon
 url: /macon/
-latitude: 46.303668300000005
-longitude: 4.8322266
+latitude: 46.308
+longitude: 4.837
 ---

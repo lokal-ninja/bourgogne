@@ -1,6 +1,6 @@
 ---
 title: Fénay
 url: /fenay/
-latitude: 47.233919400000005
-longitude: 5.0616871
+latitude: 47.243
+longitude: 5.062
 ---

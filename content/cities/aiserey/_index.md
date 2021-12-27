@@ -1,6 +1,6 @@
 ---
 title: Aiserey
 url: /aiserey/
-latitude: 47.1726521
-longitude: 5.1622858
+latitude: 47.17
+longitude: 5.167
 ---

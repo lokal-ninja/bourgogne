@@ -1,6 +1,6 @@
 ---
 title: Cuisery
 url: /cuisery/
-latitude: 46.559285
-longitude: 5.0018538
+latitude: 46.558
+longitude: 4.985
 ---
