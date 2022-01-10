@@ -1,5 +1,5 @@
 ---
 title: "Forme & Zen"
-url: /dijon/forme-and-zen/
+url: /dijon/forme-et-zen/
 shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Yséal Salon & Coiffure"
-url: /paray-le-monial/yseal-salon-and-coiffure/
+url: /paray-le-monial/yseal-salon-et-coiffure/
 shop: coiffeur
 ---

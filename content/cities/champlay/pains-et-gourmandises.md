@@ -1,5 +1,5 @@
 ---
 title: "Pains & Gourmandises"
-url: /champlay/pains-and-gourmandises/
+url: /champlay/pains-et-gourmandises/
 shop: boulangerie
 ---

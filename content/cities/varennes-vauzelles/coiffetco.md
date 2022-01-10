@@ -1,5 +1,5 @@
 ---
 title: "Coiff&Co"
-url: /varennes-vauzelles/coiffandco/
+url: /varennes-vauzelles/coiffetco/
 shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
-title: "E.Leclerc Sport"
+title: "E. Leclerc Sport"
 url: /digoin/e-leclerc-sport/
 shop: sports
 ---

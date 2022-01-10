@@ -1,5 +1,5 @@
 ---
 title: "Coiff & Co"
-url: /digoin/coiff-and-co/
+url: /digoin/coiff-et-co/
 shop: coiffeur
 ---

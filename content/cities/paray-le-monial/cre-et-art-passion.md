@@ -1,5 +1,5 @@
 ---
 title: "Cré & Art Passion"
-url: /paray-le-monial/cre-and-art-passion/
+url: /paray-le-monial/cre-et-art-passion/
 shop: artisanat
 ---

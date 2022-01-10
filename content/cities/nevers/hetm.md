@@ -1,5 +1,5 @@
 ---
 title: "H&M"
-url: /nevers/handm/
+url: /nevers/hetm/
 shop: vêtements
 ---

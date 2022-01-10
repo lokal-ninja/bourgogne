@@ -1,5 +1,5 @@
 ---
 title: "Aquilus Piscines & Spas"
-url: /paray-le-monial/aquilus-piscines-and-spas/
+url: /paray-le-monial/aquilus-piscines-et-spas/
 shop: piscine
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bibi & Bob"
-url: /dijon/bibi-and-bob/
+url: /dijon/bibi-et-bob/
 shop: shop
 ---

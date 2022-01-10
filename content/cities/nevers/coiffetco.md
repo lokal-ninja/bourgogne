@@ -1,5 +1,5 @@
 ---
 title: "Coiff&Co"
-url: /nevers/coiffandco/
+url: /nevers/coiffetco/
 shop: coiffeur
 ---

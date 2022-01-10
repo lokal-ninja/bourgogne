@@ -1,5 +1,5 @@
 ---
 title: "La Fée&Le Chocolat"
-url: /cosne-cours-sur-loire/la-feeandle-chocolat/
+url: /cosne-cours-sur-loire/la-feeetle-chocolat/
 shop: confiserie
 ---
