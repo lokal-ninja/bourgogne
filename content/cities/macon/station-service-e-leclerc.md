@@ -1,5 +1,5 @@
 ---
 title: "Station Service E. Leclerc"
-url: /digoin/station-service-e-leclerc/
+url: /macon/station-service-e-leclerc/
 shop: gaz
 ---
