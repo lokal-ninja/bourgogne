@@ -1,5 +1,5 @@
 ---
-title: "DOMAINE DE PERDRYCOURT"
+title: "Domaine de Perdrycourt"
 url: /chablis/domaine-de-perdrycourt/
 shop: vin
 ---

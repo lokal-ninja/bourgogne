@@ -1,5 +1,5 @@
 ---
-title: "JEFCO Blancolor peintures"
+title: "Jefco Blancolor Peintures"
 url: /dijon/jefco-blancolor-peintures/
 shop: peinture
 ---
