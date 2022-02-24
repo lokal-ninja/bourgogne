@@ -1,6 +1,6 @@
 ---
 title: Saint-Denis-lès-Sens
 url: /saint-denis-les-sens/
-latitude: 48.217
-longitude: 3.277
+latitude: 48.213
+longitude: 3.274
 ---
