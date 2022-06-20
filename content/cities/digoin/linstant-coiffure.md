@@ -1,5 +1,5 @@
 ---
 title: "L'instant coiffure"
-url: /paray-le-monial/linstant-coiffure/
+url: /digoin/linstant-coiffure/
 shop: coiffeur
 ---
