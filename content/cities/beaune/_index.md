@@ -1,6 +1,6 @@
 ---
 title: Beaune
 url: /beaune/
-latitude: 47.024
-longitude: 4.838
+latitude: 47.039
+longitude: 4.848
 ---

@@ -1,6 +1,6 @@
 ---
 title: Marcigny
 url: /marcigny/
-latitude: 46.276
-longitude: 4.034
+latitude: 46.275
+longitude: 4.041
 ---
