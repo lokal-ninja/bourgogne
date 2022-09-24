@@ -1,5 +1,5 @@
 ---
-title: "REXEL"
+title: "Rexel"
 url: /digoin/rexel/
-shop: à faire soi-même
+shop: électrique
 ---
