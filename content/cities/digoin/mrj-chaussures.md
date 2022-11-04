@@ -1,5 +1,5 @@
 ---
 title: "MRJ Chaussures"
-url: /vitry-en-charollais/mrj-chaussures/
+url: /digoin/mrj-chaussures/
 shop: chaussures
 ---
