@@ -1,11 +1,11 @@
-id: 6075880714
-type: node
-latitude: 47.30758
-longitude: 5.10334
+id: 121739107
+type: way
+latitude: 47.30759
+longitude: 5.10325
 postcode: "21800"
 city: Quetigny
 street: "Boulevard du Champ aux Métiers"
 housenumber: 13
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+33 3 80 67 78 06"
+opening_hours: "Tu-Sa 09:30-13:00,14:00-19:00"
+website: "https://www.biscuits-mistral.fr/"
