@@ -1,5 +1,5 @@
 ---
 title: "Céréa"
-url: /nevers/cerea-2/
+url: /nevers/cerea/
 shop: boulangerie
 ---
