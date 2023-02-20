@@ -1,5 +1,5 @@
 ---
-title: "la Ghoud Boucherie"
+title: "La Ghoud Boucherie"
 url: /tonnerre/la-ghoud-boucherie/
 shop: boucherie
 ---
