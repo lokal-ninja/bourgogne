@@ -1,5 +1,5 @@
 ---
 title: "Thiriet"
 url: /nevers/thiriet/
-shop: commodité
+shop: aliments surgelés
 ---
