@@ -7,5 +7,5 @@ city: Dijon
 street: "Rue Quentin"
 housenumber: 2
 phone: "+33 3 80 30 37 69"
-opening_hours: "Tu-Sa 09:00-19:00"
+opening_hours: "Tu,Fr,Sa 07:00-13:00"
 website: ""
