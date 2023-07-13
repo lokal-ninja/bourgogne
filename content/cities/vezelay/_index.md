@@ -1,6 +1,6 @@
 ---
 title: Vézelay
 url: /vezelay/
-latitude: 47.463
-longitude: 3.742
+latitude: 47.465
+longitude: 3.746
 ---
