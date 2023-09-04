@@ -1,5 +1,5 @@
 ---
-title: "Pompes funèbres DUBOIS"
+title: "Pompes funèbres Dubois"
 url: /avallon/pompes-funebres-dubois/
 shop: directeurs de funérailles
 ---

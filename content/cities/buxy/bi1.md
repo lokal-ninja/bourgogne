@@ -1,5 +1,5 @@
 ---
-title: "BI1"
+title: "bi1"
 url: /buxy/bi1/
-shop: supermarché
+shop: shop
 ---
