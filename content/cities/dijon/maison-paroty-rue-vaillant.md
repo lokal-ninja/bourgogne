@@ -1,5 +1,5 @@
 ---
 title: "Maison Paroty"
-url: /dijon/maison-paroty/
+url: /dijon/maison-paroty-rue-vaillant/
 shop: boulangerie
 ---

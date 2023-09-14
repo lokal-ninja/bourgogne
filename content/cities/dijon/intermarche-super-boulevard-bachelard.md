@@ -1,5 +1,5 @@
 ---
 title: "Intermarché Super"
-url: /dijon/intermarche-super/
+url: /dijon/intermarche-super-boulevard-bachelard/
 shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Midas"
-url: /dijon/midas/
+url: /dijon/midas-rue-devosge/
 shop: réparation de voitures
 ---

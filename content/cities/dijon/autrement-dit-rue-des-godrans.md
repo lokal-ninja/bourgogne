@@ -1,5 +1,5 @@
 ---
 title: "Autrement Dit"
-url: /dijon/autrement-dit/
+url: /dijon/autrement-dit-rue-des-godrans/
 shop: livres
 ---
