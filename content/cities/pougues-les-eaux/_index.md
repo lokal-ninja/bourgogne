@@ -1,6 +1,6 @@
 ---
-title: Pougues-les-Eaux
+title: Pougues les Eaux
 url: /pougues-les-eaux/
-latitude: 47.074
-longitude: 3.102
+latitude: 47.077
+longitude: 3.099
 ---
