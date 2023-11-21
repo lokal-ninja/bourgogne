@@ -7,5 +7,5 @@ city: Dijon
 street: "Place Bossuet"
 housenumber: 2
 phone: "+33 3 80 41 38 51"
-opening_hours: "Mo 14:00-19:00; Tu-Fr 12:00-19:00; Sa 10:00-19:00"
+opening_hours: "Sa 10:00-19:00; Tu,We,Fr 11:00-19:00; Mo,Th 13:00-19:00"
 website: "https://shiftyboardshop.com/"
