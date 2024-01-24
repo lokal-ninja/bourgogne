@@ -1,6 +1,6 @@
 ---
 title: Marsannay-la-Côte
 url: /marsannay-la-cote/
-latitude: 47.271
-longitude: 4.989
+latitude: 47.278
+longitude: 5.007
 ---
