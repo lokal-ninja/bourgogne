@@ -1,5 +1,5 @@
 ---
 title: "Alfa Décoration"
 url: /ahuy/alfa-decoration/
-shop: tapis
+shop: à faire soi-même
 ---
