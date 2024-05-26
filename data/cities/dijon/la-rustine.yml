@@ -7,5 +7,5 @@ city: Dijon
 street: "Rue du Havre"
 housenumber: 5
 phone: "+33 3 73 27 03 66"
-opening_hours: "Mo 09:00-13:00, 15:00-19:00; Tu, Sa, Su 15:00-19:00"
+opening_hours: "Mo 09:00-13:00,15:00-19:00; Tu,Sa 15:00-19:00"
 website: "https://larustine.org/"

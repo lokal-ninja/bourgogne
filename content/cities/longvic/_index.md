@@ -2,5 +2,5 @@
 title: Longvic
 url: /longvic/
 latitude: 47.286
-longitude: 5.063
+longitude: 5.064
 ---
