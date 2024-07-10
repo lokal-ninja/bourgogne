@@ -1,0 +1,5 @@
+---
+title: "FS Auto"
+url: /paray-le-monial/fs-auto/
+shop: voiture
+---
