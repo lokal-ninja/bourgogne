@@ -1,11 +1,11 @@
-id: 10242268938
-type: node
-latitude: 47.49012
-longitude: 4.35169
+id: 172928640
+type: way
+latitude: 47.48977
+longitude: 4.35179
 postcode: "21140"
 city: Semur-en-Auxois
 street: "Route de Dijon"
 housenumber: 
 phone: "+33 3 80 89 66 54"
-opening_hours: "Mo-Sa 09:00-12:30,14:00-19:00"
+opening_hours: "Mo-Fr 09:30-12:30,14:00-18:30; Sa 09:30-18:30"
 website: "https://www.biscuits-mistral.fr/"
