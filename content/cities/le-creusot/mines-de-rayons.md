@@ -1,5 +1,5 @@
 ---
 title: "Mines de Rayons"
 url: /le-creusot/mines-de-rayons/
-shop: shop
+shop: Allgemein
 ---

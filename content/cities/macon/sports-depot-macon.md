@@ -1,5 +1,5 @@
 ---
 title: "SPORTS Dépôt MACON"
 url: /macon/sports-depot-macon/
-shop: sports
+shop: Sport
 ---

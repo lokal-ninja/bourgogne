@@ -1,5 +1,5 @@
 ---
 title: "SFR"
 url: /sens/sfr/
-shop: téléphone portable
+shop: Handy
 ---

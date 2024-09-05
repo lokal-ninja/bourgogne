@@ -1,5 +1,5 @@
 ---
 title: "Criss Coiffure"
 url: /digoin/criss-coiffure/
-shop: coiffeur
+shop: Friseur
 ---

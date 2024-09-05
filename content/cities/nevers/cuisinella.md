@@ -1,5 +1,5 @@
 ---
 title: "Cuisinella"
 url: /nevers/cuisinella/
-shop: cuisine
+shop: Küchen
 ---

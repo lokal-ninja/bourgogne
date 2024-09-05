@@ -1,5 +1,5 @@
 ---
 title: "Kiriel"
 url: /dornes/kiriel/
-shop: supermarché
+shop: Supermarkt
 ---

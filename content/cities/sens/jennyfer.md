@@ -1,5 +1,5 @@
 ---
 title: "Jennyfer"
 url: /sens/jennyfer/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Patàpain"
 url: /nevers/patapain/
-shop: boulangerie
+shop: Bäckerei
 ---

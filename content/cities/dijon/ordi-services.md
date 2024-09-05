@@ -1,5 +1,5 @@
 ---
 title: "Ordi Services"
 url: /dijon/ordi-services/
-shop: ordinateur
+shop: Computer
 ---

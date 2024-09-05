@@ -1,5 +1,5 @@
 ---
 title: "Millet"
 url: /dijon/millet/
-shop: extérieur
+shop: Outdoor
 ---

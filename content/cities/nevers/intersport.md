@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /nevers/intersport/
-shop: sports
+shop: Sport
 ---

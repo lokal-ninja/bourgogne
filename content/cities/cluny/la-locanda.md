@@ -1,5 +1,5 @@
 ---
 title: "La Locanda"
 url: /cluny/la-locanda/
-shop: charcuterie
+shop: Feinkost
 ---

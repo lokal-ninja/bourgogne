@@ -1,5 +1,5 @@
 ---
 title: "Jocade"
 url: /dijon/jocade/
-shop: jeux
+shop: Spiele
 ---

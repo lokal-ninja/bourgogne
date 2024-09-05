@@ -1,5 +1,5 @@
 ---
 title: "EARL DU Moulin d'Ouvrault"
 url: /champvoux/earl-du-moulin-douvrault/
-shop: ferme
+shop: Hofladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Refan"
 url: /nevers/refan/
-shop: beauté
+shop: Kosmetik
 ---

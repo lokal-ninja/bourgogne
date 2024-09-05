@@ -1,5 +1,5 @@
 ---
 title: "Laverie libre-service"
 url: /dijon/laverie-libre-service/
-shop: blanchisserie
+shop: Wäscherei
 ---

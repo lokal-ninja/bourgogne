@@ -1,5 +1,5 @@
 ---
 title: "Optical Center"
 url: /ahuy/optical-center/
-shop: opticien
+shop: Optiker
 ---

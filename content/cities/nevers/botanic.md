@@ -1,5 +1,5 @@
 ---
 title: "Botanic"
 url: /nevers/botanic/
-shop: centre de jardinage
+shop: Garten-Center
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sergent Major"
 url: /dijon/sergent-major/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maison Caffet"
 url: /nevers/maison-caffet/
-shop: chocolat
+shop: Schokolade
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Solif Ressourcerie"
 url: /paray-le-monial/solif-ressourcerie/
-shop: charité
+shop: Gebrauchtwaren
 ---

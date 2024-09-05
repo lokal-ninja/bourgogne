@@ -1,5 +1,5 @@
 ---
 title: "Espace Beauté"
 url: /dijon/espace-beaute/
-shop: beauté
+shop: Kosmetik
 ---

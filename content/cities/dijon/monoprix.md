@@ -1,5 +1,5 @@
 ---
 title: "Monoprix"
 url: /dijon/monoprix/
-shop: supermarché
+shop: Supermarkt
 ---

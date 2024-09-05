@@ -1,5 +1,5 @@
 ---
 title: "Lapierre"
 url: /dijon/lapierre/
-shop: vélo
+shop: Fahrrad
 ---

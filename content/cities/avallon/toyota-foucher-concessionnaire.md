@@ -1,5 +1,5 @@
 ---
 title: "Toyota Foucher Concessionnaire"
 url: /avallon/toyota-foucher-concessionnaire/
-shop: voiture
+shop: Autohaus
 ---

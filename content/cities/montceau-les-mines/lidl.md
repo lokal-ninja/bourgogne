@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /montceau-les-mines/lidl/
-shop: supermarché
+shop: Supermarkt
 ---

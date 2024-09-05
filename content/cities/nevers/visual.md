@@ -1,5 +1,5 @@
 ---
 title: "Visual"
 url: /nevers/visual/
-shop: opticien
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La cave de Sombernon"
 url: /sombernon/la-cave-de-sombernon/
-shop: alcool
+shop: Spirituosen
 ---

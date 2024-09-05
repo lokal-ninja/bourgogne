@@ -1,5 +1,5 @@
 ---
 title: "Cyclopassion"
 url: /givry/cyclopassion/
-shop: vélo
+shop: Fahrrad
 ---

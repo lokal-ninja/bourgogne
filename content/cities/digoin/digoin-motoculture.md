@@ -1,5 +1,5 @@
 ---
 title: "Digoin Motoculture"
 url: /digoin/digoin-motoculture/
-shop: centre de jardinage
+shop: Garten-Center
 ---

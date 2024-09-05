@@ -1,5 +1,5 @@
 ---
 title: "Hyperboissons"
 url: /chenove/hyperboissons/
-shop: boissons
+shop: Getränke
 ---

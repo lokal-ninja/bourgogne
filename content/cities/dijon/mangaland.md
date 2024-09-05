@@ -1,5 +1,5 @@
 ---
 title: "Mangaland"
 url: /dijon/mangaland/
-shop: cadeau
+shop: Andenken
 ---

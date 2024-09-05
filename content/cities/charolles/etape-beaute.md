@@ -1,5 +1,5 @@
 ---
 title: "Étape Beauté"
 url: /charolles/etape-beaute/
-shop: beauté
+shop: Kosmetik
 ---

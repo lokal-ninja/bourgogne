@@ -1,5 +1,5 @@
 ---
 title: "Tradelec"
 url: /varennes-vauzelles/tradelec/
-shop: cheminée
+shop: Kamine & Öfen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Yamaha"
 url: /chenove/yamaha/
-shop: moto
+shop: Motorrad
 ---

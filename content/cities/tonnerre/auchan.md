@@ -1,5 +1,5 @@
 ---
 title: "Auchan"
 url: /tonnerre/auchan/
-shop: commodité
+shop: Lebensmittel
 ---

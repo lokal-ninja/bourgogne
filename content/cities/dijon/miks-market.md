@@ -1,5 +1,5 @@
 ---
 title: "Miks Market"
 url: /dijon/miks-market/
-shop: commodité
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vélozelay"
 url: /vezelay/velozelay/
-shop: vélo
+shop: Fahrrad
 ---

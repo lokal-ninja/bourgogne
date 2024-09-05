@@ -1,5 +1,5 @@
 ---
 title: "Briquet Fleurs"
 url: /nevers/briquet-fleurs/
-shop: fleuriste
+shop: Blumen
 ---

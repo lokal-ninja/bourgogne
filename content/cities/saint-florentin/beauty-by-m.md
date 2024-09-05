@@ -1,5 +1,5 @@
 ---
 title: "Beauty by M"
 url: /saint-florentin/beauty-by-m/
-shop: beauté
+shop: Kosmetik
 ---

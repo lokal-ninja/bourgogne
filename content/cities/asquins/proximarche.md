@@ -1,5 +1,5 @@
 ---
 title: "Proximarché"
 url: /asquins/proximarche/
-shop: commodité
+shop: Lebensmittel
 ---

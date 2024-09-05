@@ -1,5 +1,5 @@
 ---
 title: "Sopadec"
 url: /nevers/sopadec/
-shop: fête
+shop: Partyzubehör
 ---

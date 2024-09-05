@@ -1,5 +1,5 @@
 ---
 title: "Biocoop"
 url: /perrigny/biocoop/
-shop: supermarché
+shop: Supermarkt
 ---

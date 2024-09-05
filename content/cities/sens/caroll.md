@@ -1,5 +1,5 @@
 ---
 title: "Caroll"
 url: /sens/caroll/
-shop: vêtements
+shop: Kleidung
 ---

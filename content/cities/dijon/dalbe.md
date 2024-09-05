@@ -1,5 +1,5 @@
 ---
 title: "Dalbe"
 url: /dijon/dalbe/
-shop: artisanat
+shop: Basteln
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cora"
 url: /moneteau/cora/
-shop: supermarché
+shop: Supermarkt
 ---

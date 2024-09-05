@@ -1,5 +1,5 @@
 ---
 title: "Germinal"
 url: /auxerre/germinal/
-shop: supermarché
+shop: Supermarkt
 ---

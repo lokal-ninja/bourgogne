@@ -1,5 +1,5 @@
 ---
 title: "Marie Blachère"
 url: /varennes-vauzelles/marie-blachere/
-shop: boulangerie
+shop: Bäckerei
 ---

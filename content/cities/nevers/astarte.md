@@ -1,5 +1,5 @@
 ---
 title: "Astarté"
 url: /nevers/astarte/
-shop: cuir
+shop: Leder
 ---

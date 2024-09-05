@@ -1,5 +1,5 @@
 ---
 title: "Frimousse Beauté"
 url: /charolles/frimousse-beaute/
-shop: beauté
+shop: Kosmetik
 ---

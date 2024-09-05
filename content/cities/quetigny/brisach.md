@@ -1,5 +1,5 @@
 ---
 title: "Brisach"
 url: /quetigny/brisach/
-shop: cheminée
+shop: Kamine & Öfen
 ---

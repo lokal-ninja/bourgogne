@@ -1,5 +1,5 @@
 ---
 title: "Biomonde"
 url: /macon/biomonde/
-shop: supermarché
+shop: Supermarkt
 ---

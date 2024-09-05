@@ -1,5 +1,5 @@
 ---
 title: "Artéïs"
 url: /nevers/arteis/
-shop: artisanat
+shop: Basteln
 ---

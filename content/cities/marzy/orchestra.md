@@ -1,5 +1,5 @@
 ---
 title: "Orchestra"
 url: /marzy/orchestra/
-shop: vêtements
+shop: Kleidung
 ---

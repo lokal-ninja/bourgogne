@@ -1,5 +1,5 @@
 ---
 title: "Avia"
 url: /charolles/avia/
-shop: commodité
+shop: Lebensmittel
 ---

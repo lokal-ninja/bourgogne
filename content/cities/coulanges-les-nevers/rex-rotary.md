@@ -1,5 +1,5 @@
 ---
 title: "Rex Rotary"
 url: /coulanges-les-nevers/rex-rotary/
-shop: copyshop
+shop: Kopieren
 ---

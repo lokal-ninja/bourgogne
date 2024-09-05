@@ -1,5 +1,5 @@
 ---
 title: "Cordonnerie Step"
 url: /dijon/cordonnerie-step/
-shop: chaussures
+shop: Schuhe
 ---
