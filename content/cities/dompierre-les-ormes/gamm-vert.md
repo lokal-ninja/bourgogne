@@ -1,5 +1,5 @@
 ---
 title: "Gamm Vert"
 url: /dompierre-les-ormes/gamm-vert/
-shop: Warenhaus
+shop: grand magasin
 ---

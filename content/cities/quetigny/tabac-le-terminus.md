@@ -1,5 +1,5 @@
 ---
 title: "Tabac Le Terminus"
 url: /quetigny/tabac-le-terminus/
-shop: Tabak
+shop: tabac
 ---

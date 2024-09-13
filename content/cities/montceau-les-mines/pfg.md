@@ -1,5 +1,5 @@
 ---
 title: "PFG"
 url: /montceau-les-mines/pfg/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eurorepar"
 url: /saint-leger-des-vignes/eurorepar/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

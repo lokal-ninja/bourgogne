@@ -1,5 +1,5 @@
 ---
 title: "Dufoux chocolats"
 url: /charolles/dufoux-chocolats/
-shop: Schokolade
+shop: chocolat
 ---

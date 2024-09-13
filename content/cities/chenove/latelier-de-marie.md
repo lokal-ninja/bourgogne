@@ -1,5 +1,5 @@
 ---
 title: "L'atelier de Marie"
 url: /chenove/latelier-de-marie/
-shop: Blumen
+shop: fleuriste
 ---

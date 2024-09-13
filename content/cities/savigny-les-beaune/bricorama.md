@@ -1,5 +1,5 @@
 ---
 title: "Bricorama"
 url: /savigny-les-beaune/bricorama/
-shop: Baumarkt
+shop: à faire soi-même
 ---

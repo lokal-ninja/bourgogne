@@ -1,5 +1,5 @@
 ---
 title: "DORAS"
 url: /moulins-engilbert/doras/
-shop: Baumarkt
+shop: à faire soi-même
 ---

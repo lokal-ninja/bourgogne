@@ -1,5 +1,5 @@
 ---
 title: "Anne Galland"
 url: /charolles/anne-galland/
-shop: Friseur
+shop: coiffeur
 ---

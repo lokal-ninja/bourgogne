@@ -1,5 +1,5 @@
 ---
 title: "Biocoop"
 url: /ahuy/biocoop/
-shop: Supermarkt
+shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mondovélo"
 url: /charolles/mondovelo/
-shop: Fahrrad
+shop: vélo
 ---

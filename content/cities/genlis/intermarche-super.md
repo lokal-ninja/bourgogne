@@ -1,5 +1,5 @@
 ---
 title: "Intermarché Super"
 url: /genlis/intermarche-super/
-shop: Supermarkt
+shop: supermarché
 ---

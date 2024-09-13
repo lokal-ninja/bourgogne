@@ -1,5 +1,5 @@
 ---
 title: "Euromaster"
 url: /nevers/euromaster/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

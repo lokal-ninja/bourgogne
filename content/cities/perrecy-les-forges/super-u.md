@@ -1,5 +1,5 @@
 ---
 title: "Super U"
 url: /perrecy-les-forges/super-u/
-shop: Supermarkt
+shop: supermarché
 ---

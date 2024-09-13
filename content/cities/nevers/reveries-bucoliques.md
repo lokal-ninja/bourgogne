@@ -1,5 +1,5 @@
 ---
 title: "Rêveries Bucoliques"
 url: /nevers/reveries-bucoliques/
-shop: Blumen
+shop: fleuriste
 ---

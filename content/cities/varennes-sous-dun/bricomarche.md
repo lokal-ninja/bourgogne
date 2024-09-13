@@ -1,5 +1,5 @@
 ---
 title: "Bricomarché"
 url: /varennes-sous-dun/bricomarche/
-shop: Baumarkt
+shop: à faire soi-même
 ---

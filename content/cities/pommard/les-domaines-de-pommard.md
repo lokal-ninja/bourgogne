@@ -1,5 +1,5 @@
 ---
 title: "Les Domaines de Pommard"
 url: /pommard/les-domaines-de-pommard/
-shop: Spirituosen
+shop: alcool
 ---

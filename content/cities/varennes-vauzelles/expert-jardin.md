@@ -1,5 +1,5 @@
 ---
 title: "Expert Jardin"
 url: /varennes-vauzelles/expert-jardin/
-shop: Gartenmöbel
+shop: meubles de jardin
 ---

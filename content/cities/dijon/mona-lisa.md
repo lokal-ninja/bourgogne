@@ -1,5 +1,5 @@
 ---
 title: "Mona Lisa"
 url: /dijon/mona-lisa/
-shop: Kosmetik
+shop: beauté
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centrakor"
 url: /fontaine-les-dijon/centrakor/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

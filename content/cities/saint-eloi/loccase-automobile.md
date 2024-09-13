@@ -1,5 +1,5 @@
 ---
 title: "L'Occase Automobile"
 url: /saint-eloi/loccase-automobile/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

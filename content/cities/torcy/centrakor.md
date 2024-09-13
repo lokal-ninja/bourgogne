@@ -1,5 +1,5 @@
 ---
 title: "Centrakor"
 url: /torcy/centrakor/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

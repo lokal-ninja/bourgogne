@@ -1,5 +1,5 @@
 ---
 title: "Garage Masson"
 url: /dijon/garage-masson/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

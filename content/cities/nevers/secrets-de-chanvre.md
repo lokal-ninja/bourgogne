@@ -1,5 +1,5 @@
 ---
 title: "Secrets de chanvre"
 url: /nevers/secrets-de-chanvre/
-shop: Hanf
+shop: cannabis
 ---

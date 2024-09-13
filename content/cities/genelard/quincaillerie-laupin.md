@@ -1,5 +1,5 @@
 ---
 title: "Quincaillerie Laupin"
 url: /genelard/quincaillerie-laupin/
-shop: Baumarkt
+shop: à faire soi-même
 ---

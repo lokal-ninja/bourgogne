@@ -1,5 +1,5 @@
 ---
 title: "Maison du fumeur"
 url: /nevers/maison-du-fumeur/
-shop: Tabak
+shop: tabac
 ---

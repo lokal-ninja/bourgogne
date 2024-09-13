@@ -1,5 +1,5 @@
 ---
 title: "Faites le beau"
 url: /sens/faites-le-beau/
-shop: Tiere
+shop: animal de compagnie
 ---

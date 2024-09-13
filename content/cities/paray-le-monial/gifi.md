@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /paray-le-monial/gifi/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

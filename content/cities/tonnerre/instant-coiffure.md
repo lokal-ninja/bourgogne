@@ -1,5 +1,5 @@
 ---
 title: "Instant Coiffure"
 url: /tonnerre/instant-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Les Vergers Des Beaumont"
 url: /nevers/les-vergers-des-beaumont/
-shop: Gemüse & Obst
+shop: légumes
 ---

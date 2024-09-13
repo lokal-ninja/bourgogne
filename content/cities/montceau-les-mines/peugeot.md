@@ -1,5 +1,5 @@
 ---
 title: "Peugeot"
 url: /montceau-les-mines/peugeot/
-shop: Autohaus
+shop: voiture
 ---

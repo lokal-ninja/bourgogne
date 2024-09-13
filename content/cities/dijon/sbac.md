@@ -1,5 +1,5 @@
 ---
 title: "SBAC"
 url: /dijon/sbac/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

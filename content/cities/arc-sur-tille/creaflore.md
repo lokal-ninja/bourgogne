@@ -1,5 +1,5 @@
 ---
 title: "Créa'Flore"
 url: /arc-sur-tille/creaflore/
-shop: Blumen
+shop: fleuriste
 ---

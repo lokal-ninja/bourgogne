@@ -1,5 +1,5 @@
 ---
 title: "Intermarché Super"
 url: /varennes-sous-dun/intermarche-super/
-shop: Supermarkt
+shop: supermarché
 ---

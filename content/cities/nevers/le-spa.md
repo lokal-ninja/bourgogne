@@ -1,5 +1,5 @@
 ---
 title: "Le Spa"
 url: /nevers/le-spa/
-shop: Kosmetik
+shop: beauté
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bricomarché"
 url: /varennes-vauzelles/bricomarche/
-shop: Baumarkt
+shop: à faire soi-même
 ---

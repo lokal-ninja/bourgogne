@@ -1,5 +1,5 @@
 ---
 title: "Welcom'"
 url: /nevers/welcom/
-shop: Handy
+shop: téléphone portable
 ---

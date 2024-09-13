@@ -1,5 +1,5 @@
 ---
 title: "Petit Casino"
 url: /marcigny/petit-casino/
-shop: Lebensmittel
+shop: commodité
 ---

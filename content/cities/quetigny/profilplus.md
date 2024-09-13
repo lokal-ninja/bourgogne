@@ -1,5 +1,5 @@
 ---
 title: "Profilplus"
 url: /quetigny/profilplus/
-shop: Autohaus
+shop: voiture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Tentation"
 url: /tonnerre/la-tentation/
-shop: Konditorei
+shop: pâtisserie
 ---

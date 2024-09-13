@@ -1,5 +1,5 @@
 ---
 title: "Tabac Grangier"
 url: /dijon/tabac-grangier/
-shop: Zeitungen
+shop: marchand de journaux
 ---

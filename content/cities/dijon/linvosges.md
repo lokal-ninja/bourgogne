@@ -1,5 +1,5 @@
 ---
 title: "Linvosges"
 url: /dijon/linvosges/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "L'atelier de Dim"
 url: /digoin/latelier-de-dim/
-shop: Friseur
+shop: coiffeur
 ---

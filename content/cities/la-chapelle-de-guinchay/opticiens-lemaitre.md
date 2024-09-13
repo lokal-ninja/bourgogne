@@ -1,5 +1,5 @@
 ---
 title: "Opticiens Lemaitre"
 url: /la-chapelle-de-guinchay/opticiens-lemaitre/
-shop: Optiker
+shop: opticien
 ---

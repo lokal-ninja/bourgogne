@@ -1,5 +1,5 @@
 ---
 title: "Babou"
 url: /nevers/babou/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

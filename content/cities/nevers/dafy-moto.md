@@ -1,5 +1,5 @@
 ---
 title: "Dafy Moto"
 url: /nevers/dafy-moto/
-shop: Autoteile
+shop: pièces de voitures
 ---

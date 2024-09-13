@@ -1,5 +1,5 @@
 ---
 title: "Audioprox"
 url: /nevers/audioprox/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

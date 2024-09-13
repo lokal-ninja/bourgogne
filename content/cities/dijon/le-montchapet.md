@@ -1,5 +1,5 @@
 ---
 title: "Le Montchapet"
 url: /dijon/le-montchapet/
-shop: Tabak
+shop: tabac
 ---

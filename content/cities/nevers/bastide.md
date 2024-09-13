@@ -1,5 +1,5 @@
 ---
 title: "Bastide"
 url: /nevers/bastide/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Insanity'nk - Obsidian tattoo"
 url: /dijon/insanitynk-obsidian-tattoo/
-shop: Tattoo
+shop: tatouage
 ---

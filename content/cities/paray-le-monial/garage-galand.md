@@ -1,5 +1,5 @@
 ---
 title: "Garage Galand"
 url: /paray-le-monial/garage-galand/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

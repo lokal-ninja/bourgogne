@@ -1,5 +1,5 @@
 ---
 title: "Philibert Electricité"
 url: /saint-christophe-en-brionnais/philibert-electricite/
-shop: Elektronik
+shop: électronique
 ---

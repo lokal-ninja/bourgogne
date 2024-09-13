@@ -1,5 +1,5 @@
 ---
 title: "Jacob Services"
 url: /paray-le-monial/jacob-services/
-shop: Autoteile
+shop: pièces de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Soleymieux"
 url: /poisson/soleymieux/
-shop: Garten-Center
+shop: centre de jardinage
 ---

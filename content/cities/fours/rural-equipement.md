@@ -1,5 +1,5 @@
 ---
 title: "Rural Equipement"
 url: /fours/rural-equipement/
-shop: Baumarkt
+shop: à faire soi-même
 ---

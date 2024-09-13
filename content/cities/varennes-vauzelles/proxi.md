@@ -1,5 +1,5 @@
 ---
 title: "Proxi"
 url: /varennes-vauzelles/proxi/
-shop: Lebensmittel
+shop: commodité
 ---

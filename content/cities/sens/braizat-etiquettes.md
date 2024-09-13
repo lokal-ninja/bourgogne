@@ -1,5 +1,5 @@
 ---
 title: "Braizat Etiquettes"
 url: /sens/braizat-etiquettes/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

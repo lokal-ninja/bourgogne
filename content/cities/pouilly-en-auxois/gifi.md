@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /pouilly-en-auxois/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

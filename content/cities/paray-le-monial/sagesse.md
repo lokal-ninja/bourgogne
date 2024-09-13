@@ -1,5 +1,5 @@
 ---
 title: "Sagesse"
 url: /paray-le-monial/sagesse/
-shop: Leiher
+shop: prêteur sur gages
 ---

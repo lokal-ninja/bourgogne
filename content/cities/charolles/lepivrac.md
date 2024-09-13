@@ -1,5 +1,5 @@
 ---
 title: "L'épivrac"
 url: /charolles/lepivrac/
-shop: Lebensmittel
+shop: commodité
 ---

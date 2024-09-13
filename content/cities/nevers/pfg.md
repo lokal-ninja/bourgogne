@@ -1,5 +1,5 @@
 ---
 title: "PFG"
 url: /nevers/pfg/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

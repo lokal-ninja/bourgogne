@@ -1,5 +1,5 @@
 ---
 title: "Bellissima"
 url: /digoin/bellissima/
-shop: Kleidung
+shop: vêtements
 ---

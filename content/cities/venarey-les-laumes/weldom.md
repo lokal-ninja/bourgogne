@@ -1,5 +1,5 @@
 ---
 title: "Weldom"
 url: /venarey-les-laumes/weldom/
-shop: Baumarkt
+shop: à faire soi-même
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /ahuy/lidl/
-shop: Supermarkt
+shop: supermarché
 ---

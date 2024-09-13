@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /varennes-vauzelles/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bouchara"
 url: /dijon/bouchara/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

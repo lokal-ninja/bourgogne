@@ -1,5 +1,5 @@
 ---
 title: "Momie Librairie"
 url: /dijon/momie-librairie/
-shop: Bücher
+shop: livres
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dijon auto racing"
 url: /ouges/dijon-auto-racing/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

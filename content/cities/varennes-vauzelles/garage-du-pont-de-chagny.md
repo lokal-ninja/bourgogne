@@ -1,5 +1,5 @@
 ---
 title: "Garage du pont de Chagny"
 url: /varennes-vauzelles/garage-du-pont-de-chagny/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

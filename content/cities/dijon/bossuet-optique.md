@@ -1,5 +1,5 @@
 ---
 title: "Bossuet Optique"
 url: /dijon/bossuet-optique/
-shop: Optiker
+shop: opticien
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Adriss"
 url: /dijon/adriss/
-shop: Friseur
+shop: coiffeur
 ---

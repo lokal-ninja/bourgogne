@@ -1,5 +1,5 @@
 ---
 title: "Atol"
 url: /decize/atol/
-shop: Optiker
+shop: opticien
 ---

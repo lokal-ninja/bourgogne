@@ -1,5 +1,5 @@
 ---
 title: "Centre commercial"
 url: /chalon-sur-saone/centre-commercial/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

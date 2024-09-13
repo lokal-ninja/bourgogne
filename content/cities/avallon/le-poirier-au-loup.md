@@ -1,5 +1,5 @@
 ---
 title: "Le Poirier au Loup"
 url: /avallon/le-poirier-au-loup/
-shop: Bücher
+shop: livres
 ---

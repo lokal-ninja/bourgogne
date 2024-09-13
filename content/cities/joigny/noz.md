@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /joigny/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

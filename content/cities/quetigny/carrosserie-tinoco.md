@@ -1,5 +1,5 @@
 ---
 title: "Carrosserie Tinoco"
 url: /quetigny/carrosserie-tinoco/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

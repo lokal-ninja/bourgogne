@@ -1,5 +1,5 @@
 ---
 title: "Vita'Nature"
 url: /marcigny/vitanature/
-shop: Lebensmittel
+shop: commodité
 ---

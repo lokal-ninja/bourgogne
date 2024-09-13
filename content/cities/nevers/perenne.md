@@ -1,5 +1,5 @@
 ---
 title: "Perenne"
 url: /nevers/perenne/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

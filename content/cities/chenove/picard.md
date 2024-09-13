@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /chenove/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cave de Chaintré"
 url: /chaintre/cave-de-chaintre/
-shop: Spirituosen
+shop: alcool
 ---

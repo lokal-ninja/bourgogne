@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /quetigny/carrefour/
-shop: Supermarkt
+shop: supermarché
 ---

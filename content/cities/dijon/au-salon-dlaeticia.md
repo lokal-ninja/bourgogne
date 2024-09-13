@@ -1,5 +1,5 @@
 ---
 title: "Au salon d'Laeticia"
 url: /dijon/au-salon-dlaeticia/
-shop: Friseur
+shop: coiffeur
 ---

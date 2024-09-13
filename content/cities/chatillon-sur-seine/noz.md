@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /chatillon-sur-seine/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

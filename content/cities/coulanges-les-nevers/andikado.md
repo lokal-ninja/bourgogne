@@ -1,5 +1,5 @@
 ---
 title: "Andikado"
 url: /coulanges-les-nevers/andikado/
-shop: Andenken
+shop: cadeau
 ---

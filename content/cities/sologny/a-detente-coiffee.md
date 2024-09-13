@@ -1,5 +1,5 @@
 ---
 title: "A Détente Coiffée"
 url: /sologny/a-detente-coiffee/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Norauto"
 url: /nevers/norauto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

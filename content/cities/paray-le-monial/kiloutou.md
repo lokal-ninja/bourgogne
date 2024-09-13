@@ -1,5 +1,5 @@
 ---
 title: "Kiloutou"
 url: /paray-le-monial/kiloutou/
-shop: Werkzeuge
+shop: outils
 ---

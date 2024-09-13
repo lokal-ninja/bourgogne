@@ -1,5 +1,5 @@
 ---
 title: "Pompes Funèbres Marbrerie Le Gal"
 url: /nevers/pompes-funebres-marbrerie-le-gal/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

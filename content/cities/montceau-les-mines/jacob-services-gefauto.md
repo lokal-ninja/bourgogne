@@ -1,5 +1,5 @@
 ---
 title: "Jacob Services Gef'Auto"
 url: /montceau-les-mines/jacob-services-gefauto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

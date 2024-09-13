@@ -1,5 +1,5 @@
 ---
 title: "Athos Voyages"
 url: /digoin/athos-voyages/
-shop: Reisebüro
+shop: agence de voyage
 ---

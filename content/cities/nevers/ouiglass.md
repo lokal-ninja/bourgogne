@@ -1,5 +1,5 @@
 ---
 title: "OuiGlass"
 url: /nevers/ouiglass/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

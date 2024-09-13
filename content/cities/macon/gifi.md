@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /macon/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

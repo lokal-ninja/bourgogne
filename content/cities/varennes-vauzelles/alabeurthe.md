@@ -1,5 +1,5 @@
 ---
 title: "Alabeurthe"
 url: /varennes-vauzelles/alabeurthe/
-shop: Garten-Center
+shop: centre de jardinage
 ---

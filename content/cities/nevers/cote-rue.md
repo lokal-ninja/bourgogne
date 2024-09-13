@@ -1,5 +1,5 @@
 ---
 title: "Côté Rue"
 url: /nevers/cote-rue/
-shop: Kleidung
+shop: vêtements
 ---

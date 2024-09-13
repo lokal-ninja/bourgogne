@@ -1,5 +1,5 @@
 ---
 title: "Hippso"
 url: /joigny/hippso/
-shop: Sport
+shop: sports
 ---

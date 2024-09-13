@@ -1,5 +1,5 @@
 ---
 title: "Jacoulot"
 url: /romaneche-thorins/jacoulot/
-shop: Spirituosen
+shop: alcool
 ---

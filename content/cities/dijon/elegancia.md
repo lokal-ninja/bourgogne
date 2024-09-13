@@ -1,5 +1,5 @@
 ---
 title: "Élégancia"
 url: /dijon/elegancia/
-shop: Friseur
+shop: coiffeur
 ---

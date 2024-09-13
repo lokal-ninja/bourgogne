@@ -1,5 +1,5 @@
 ---
 title: "AD"
 url: /quetigny/ad/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

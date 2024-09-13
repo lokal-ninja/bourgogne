@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /varennes-vauzelles/lidl/
-shop: Supermarkt
+shop: supermarché
 ---

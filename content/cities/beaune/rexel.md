@@ -1,5 +1,5 @@
 ---
 title: "Rexel"
 url: /beaune/rexel/
-shop: Elektrisch
+shop: électrique
 ---

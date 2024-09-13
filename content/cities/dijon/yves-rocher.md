@@ -1,5 +1,5 @@
 ---
 title: "Yves Rocher"
 url: /dijon/yves-rocher/
-shop: Kosmetik
+shop: beauté
 ---

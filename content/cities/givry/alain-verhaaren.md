@@ -1,5 +1,5 @@
 ---
 title: "Alain Verhaaren"
 url: /givry/alain-verhaaren/
-shop: Baumarkt
+shop: à faire soi-même
 ---

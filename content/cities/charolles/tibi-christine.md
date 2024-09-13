@@ -1,5 +1,5 @@
 ---
 title: "Tibi Christine"
 url: /charolles/tibi-christine/
-shop: Blumen
+shop: fleuriste
 ---

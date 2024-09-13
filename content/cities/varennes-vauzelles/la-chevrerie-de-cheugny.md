@@ -1,5 +1,5 @@
 ---
 title: "La Chèvrerie de Cheugny"
 url: /varennes-vauzelles/la-chevrerie-de-cheugny/
-shop: Hofladen
+shop: ferme
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Selectour"
 url: /cosne-cours-sur-loire/selectour/
-shop: Reisebüro
+shop: agence de voyage
 ---

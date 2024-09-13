@@ -1,5 +1,5 @@
 ---
 title: "Blackstore"
 url: /quetigny/blackstore/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Meca Ser'vis"
 url: /saillenard/meca-servis/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Intermarché Contact"
 url: /magny-cours/intermarche-contact/
-shop: Lebensmittel
+shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rexel"
 url: /montceau-les-mines/rexel/
-shop: Elektrisch
+shop: électrique
 ---

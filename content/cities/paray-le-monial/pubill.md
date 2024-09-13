@@ -1,5 +1,5 @@
 ---
 title: "Pubill"
 url: /paray-le-monial/pubill/
-shop: Schokolade
+shop: chocolat
 ---

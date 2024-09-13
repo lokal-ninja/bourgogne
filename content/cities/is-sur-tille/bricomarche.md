@@ -1,5 +1,5 @@
 ---
 title: "Bricomarché"
 url: /is-sur-tille/bricomarche/
-shop: Baumarkt
+shop: à faire soi-même
 ---

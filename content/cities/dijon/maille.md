@@ -1,5 +1,5 @@
 ---
 title: "Maille"
 url: /dijon/maille/
-shop: Feinkost
+shop: charcuterie
 ---

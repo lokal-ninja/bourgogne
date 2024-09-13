@@ -1,5 +1,5 @@
 ---
 title: "Intermarché Super"
 url: /is-sur-tille/intermarche-super/
-shop: Supermarkt
+shop: supermarché
 ---

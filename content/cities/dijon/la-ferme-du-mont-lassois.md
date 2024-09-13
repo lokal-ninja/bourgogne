@@ -1,5 +1,5 @@
 ---
 title: "La Ferme du Mont Lassois"
 url: /dijon/la-ferme-du-mont-lassois/
-shop: Milch
+shop: produits laitiers
 ---

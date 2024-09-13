@@ -1,5 +1,5 @@
 ---
 title: "CARROSSERIE MOURAUD"
 url: /sens/carrosserie-mouraud/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

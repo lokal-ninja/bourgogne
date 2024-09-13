@@ -1,5 +1,5 @@
 ---
 title: "Viollon"
 url: /le-creusot/viollon/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

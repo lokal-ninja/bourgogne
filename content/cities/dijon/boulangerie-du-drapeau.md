@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie du Drapeau"
 url: /dijon/boulangerie-du-drapeau/
-shop: Bäckerei
+shop: boulangerie
 ---

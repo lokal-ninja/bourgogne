@@ -1,5 +1,5 @@
 ---
 title: "Spot Literie"
 url: /quetigny/spot-literie/
-shop: Betten
+shop: lit
 ---

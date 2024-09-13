@@ -1,5 +1,5 @@
 ---
 title: "Luthier"
 url: /nevers/luthier/
-shop: Instrumente
+shop: instrument de musique
 ---

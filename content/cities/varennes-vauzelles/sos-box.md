@@ -1,5 +1,5 @@
 ---
 title: "SOS Box"
 url: /varennes-vauzelles/sos-box/
-shop: Mieten
+shop: location de stockage
 ---

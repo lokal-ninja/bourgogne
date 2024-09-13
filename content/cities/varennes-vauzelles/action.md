@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /varennes-vauzelles/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

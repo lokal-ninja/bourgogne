@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /quetigny/decathlon/
-shop: Sport
+shop: sports
 ---

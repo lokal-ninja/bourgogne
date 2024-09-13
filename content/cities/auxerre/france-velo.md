@@ -1,5 +1,5 @@
 ---
 title: "France vélo"
 url: /auxerre/france-velo/
-shop: Mieten
+shop: location de stockage
 ---

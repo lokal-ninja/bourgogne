@@ -1,5 +1,5 @@
 ---
 title: "William Fevre"
 url: /chablis/william-fevre/
-shop: Wein
+shop: vin
 ---

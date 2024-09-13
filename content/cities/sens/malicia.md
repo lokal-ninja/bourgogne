@@ -1,5 +1,5 @@
 ---
 title: "Malicia"
 url: /sens/malicia/
-shop: Kleidung
+shop: vêtements
 ---

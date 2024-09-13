@@ -1,5 +1,5 @@
 ---
 title: "Castorama"
 url: /marsannay-la-cote/castorama/
-shop: Baumarkt
+shop: à faire soi-même
 ---

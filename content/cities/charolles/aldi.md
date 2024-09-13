@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /charolles/aldi/
-shop: Supermarkt
+shop: supermarché
 ---

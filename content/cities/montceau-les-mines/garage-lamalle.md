@@ -1,5 +1,5 @@
 ---
 title: "Garage Lamalle"
 url: /montceau-les-mines/garage-lamalle/
-shop: Autohaus
+shop: voiture
 ---

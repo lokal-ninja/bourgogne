@@ -1,5 +1,5 @@
 ---
 title: "Yann Trigoust"
 url: /varennes-vauzelles/yann-trigoust/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La fleuriée Presse"
 url: /saint-apollinaire/la-fleuriee-presse/
-shop: Zeitungen
+shop: marchand de journaux
 ---

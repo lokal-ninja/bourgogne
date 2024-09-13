@@ -1,5 +1,5 @@
 ---
 title: "Ylanga Institut"
 url: /paray-le-monial/ylanga-institut/
-shop: Kosmetik
+shop: beauté
 ---

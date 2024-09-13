@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /marsannay-la-cote/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

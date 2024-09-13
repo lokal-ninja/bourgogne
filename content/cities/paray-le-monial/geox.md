@@ -1,5 +1,5 @@
 ---
 title: "Geox"
 url: /paray-le-monial/geox/
-shop: Schuhe
+shop: chaussures
 ---

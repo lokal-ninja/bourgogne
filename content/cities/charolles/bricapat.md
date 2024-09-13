@@ -1,5 +1,5 @@
 ---
 title: "Bricapat"
 url: /charolles/bricapat/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Netto"
 url: /paray-le-monial/netto/
-shop: Supermarkt
+shop: supermarché
 ---

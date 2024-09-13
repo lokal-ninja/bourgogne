@@ -1,5 +1,5 @@
 ---
 title: "La Fourmilière"
 url: /chapaize/la-fourmiliere/
-shop: Küchen
+shop: cuisine
 ---

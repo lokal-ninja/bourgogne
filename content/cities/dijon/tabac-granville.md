@@ -1,5 +1,5 @@
 ---
 title: "Tabac Granville"
 url: /dijon/tabac-granville/
-shop: Tabak
+shop: tabac
 ---

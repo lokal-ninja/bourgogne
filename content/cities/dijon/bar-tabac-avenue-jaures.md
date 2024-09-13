@@ -1,5 +1,5 @@
 ---
 title: "Bar Tabac Avenue Jaurès"
 url: /dijon/bar-tabac-avenue-jaures/
-shop: Zeitungen
+shop: marchand de journaux
 ---

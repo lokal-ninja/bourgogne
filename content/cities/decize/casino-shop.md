@@ -1,5 +1,5 @@
 ---
 title: "Casino Shop"
 url: /decize/casino-shop/
-shop: Lebensmittel
+shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /dijon/vival/
-shop: Lebensmittel
+shop: commodité
 ---

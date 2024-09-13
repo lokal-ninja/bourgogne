@@ -1,5 +1,5 @@
 ---
 title: "AutoDistribution"
 url: /varennes-vauzelles/autodistribution/
-shop: Autoteile
+shop: pièces de voitures
 ---

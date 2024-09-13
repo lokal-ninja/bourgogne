@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /nevers/amplifon/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Audika"
 url: /dijon/audika/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

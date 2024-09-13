@@ -1,5 +1,5 @@
 ---
 title: "Malecot Poirier Agri"
 url: /varennes-vauzelles/malecot-poirier-agri/
-shop: Landwirtschaftlich
+shop: agraire
 ---

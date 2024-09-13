@@ -1,5 +1,5 @@
 ---
 title: "Welcom'"
 url: /nevers/welcom-rue-charles-roy/
-shop: Handy
+shop: téléphone portable
 ---

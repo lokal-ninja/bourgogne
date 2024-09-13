@@ -1,5 +1,5 @@
 ---
 title: "Prior"
 url: /montcenis/prior/
-shop: Möbel
+shop: meubles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Floris"
 url: /sens/floris/
-shop: Blumen
+shop: fleuriste
 ---

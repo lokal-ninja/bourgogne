@@ -1,5 +1,5 @@
 ---
 title: "La Basse-cour Cannata"
 url: /cluny/la-basse-cour-cannata/
-shop: Metzgerei
+shop: boucherie
 ---

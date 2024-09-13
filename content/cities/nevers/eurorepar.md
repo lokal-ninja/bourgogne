@@ -1,5 +1,5 @@
 ---
 title: "Eurorepar"
 url: /nevers/eurorepar/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

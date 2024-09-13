@@ -1,5 +1,5 @@
 ---
 title: "Carglass"
 url: /varennes-vauzelles/carglass/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

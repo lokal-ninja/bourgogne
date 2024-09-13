@@ -1,5 +1,5 @@
 ---
 title: "Feu Vert Marzy"
 url: /marzy/feu-vert-marzy/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

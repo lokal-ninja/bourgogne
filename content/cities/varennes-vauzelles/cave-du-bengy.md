@@ -1,5 +1,5 @@
 ---
 title: "Cave du Bengy"
 url: /varennes-vauzelles/cave-du-bengy/
-shop: Spirituosen
+shop: alcool
 ---

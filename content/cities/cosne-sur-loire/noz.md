@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /cosne-sur-loire/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

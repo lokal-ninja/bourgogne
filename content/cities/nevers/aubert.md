@@ -1,5 +1,5 @@
 ---
 title: "Aubert"
 url: /nevers/aubert/
-shop: Babysachen
+shop: produits pour bébés
 ---

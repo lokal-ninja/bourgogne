@@ -1,5 +1,5 @@
 ---
 title: "Danielson équipement"
 url: /magny-cours/danielson-equipement/
-shop: Autoteile
+shop: pièces de voitures
 ---

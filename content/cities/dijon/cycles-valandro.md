@@ -1,5 +1,5 @@
 ---
 title: "Cycles Valandro"
 url: /dijon/cycles-valandro/
-shop: Fahrrad
+shop: vélo
 ---

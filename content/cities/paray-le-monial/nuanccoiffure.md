@@ -1,5 +1,5 @@
 ---
 title: "NuancCoiffure"
 url: /paray-le-monial/nuanccoiffure/
-shop: Friseur
+shop: coiffeur
 ---

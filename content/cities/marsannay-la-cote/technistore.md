@@ -1,5 +1,5 @@
 ---
 title: "Technistore"
 url: /marsannay-la-cote/technistore/
-shop: Jalousien
+shop: store de fenêtre
 ---

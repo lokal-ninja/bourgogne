@@ -1,5 +1,5 @@
 ---
 title: "Bricomarché"
 url: /saint-vallier/bricomarche-zi-de-la-saule/
-shop: Baumarkt
+shop: à faire soi-même
 ---

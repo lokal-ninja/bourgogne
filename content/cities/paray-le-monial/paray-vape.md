@@ -1,5 +1,5 @@
 ---
 title: "Paray vape"
 url: /paray-le-monial/paray-vape/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

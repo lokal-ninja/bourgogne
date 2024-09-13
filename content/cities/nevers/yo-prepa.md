@@ -1,5 +1,5 @@
 ---
 title: "Yo Prépa"
 url: /nevers/yo-prepa/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

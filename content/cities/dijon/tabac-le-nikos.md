@@ -1,5 +1,5 @@
 ---
 title: "Tabac Le Nikos"
 url: /dijon/tabac-le-nikos/
-shop: Zeitungen
+shop: marchand de journaux
 ---

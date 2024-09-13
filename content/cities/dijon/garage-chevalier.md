@@ -1,5 +1,5 @@
 ---
 title: "Garage Chevalier"
 url: /dijon/garage-chevalier/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

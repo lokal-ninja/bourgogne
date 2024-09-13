@@ -1,5 +1,5 @@
 ---
 title: "Calianne"
 url: /bleneau/calianne/
-shop: Friseur
+shop: coiffeur
 ---

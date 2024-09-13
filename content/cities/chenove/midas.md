@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /chenove/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

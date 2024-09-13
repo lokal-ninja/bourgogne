@@ -1,5 +1,5 @@
 ---
 title: "Morisot SARL"
 url: /terrefondree/morisot-sarl/
-shop: Landwirtschaftlich
+shop: agraire
 ---

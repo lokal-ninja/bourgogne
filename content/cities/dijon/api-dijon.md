@@ -1,5 +1,5 @@
 ---
 title: "Api Dijon"
 url: /dijon/api-dijon/
-shop: Autoteile
+shop: pièces de voitures
 ---

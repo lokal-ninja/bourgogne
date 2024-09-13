@@ -1,5 +1,5 @@
 ---
 title: "Gamm Vert"
 url: /charolles/gamm-vert/
-shop: Garten-Center
+shop: centre de jardinage
 ---

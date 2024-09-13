@@ -1,5 +1,5 @@
 ---
 title: "Optique"
 url: /digoin/optique/
-shop: Optiker
+shop: opticien
 ---

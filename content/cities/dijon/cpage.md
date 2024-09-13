@@ -1,5 +1,5 @@
 ---
 title: "CPage"
 url: /dijon/cpage/
-shop: Computer
+shop: ordinateur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eurotyre"
 url: /varennes-vauzelles/eurotyre/
-shop: Reifen
+shop: pneus
 ---

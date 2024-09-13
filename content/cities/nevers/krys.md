@@ -1,5 +1,5 @@
 ---
 title: "Krys"
 url: /nevers/krys/
-shop: Optiker
+shop: opticien
 ---

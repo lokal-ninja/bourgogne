@@ -1,5 +1,5 @@
 ---
 title: "Bricomarché"
 url: /saint-vallier/bricomarche/
-shop: Baumarkt
+shop: à faire soi-même
 ---

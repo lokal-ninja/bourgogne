@@ -1,5 +1,5 @@
 ---
 title: "Fil d'or"
 url: /tonnerre/fil-dor/
-shop: Kleidung
+shop: vêtements
 ---

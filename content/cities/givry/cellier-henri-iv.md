@@ -1,5 +1,5 @@
 ---
 title: "Cellier Henri IV"
 url: /givry/cellier-henri-iv/
-shop: Spirituosen
+shop: alcool
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Atol"
 url: /paray-le-monial/atol/
-shop: Optiker
+shop: opticien
 ---

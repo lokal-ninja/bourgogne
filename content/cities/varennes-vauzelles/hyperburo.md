@@ -1,5 +1,5 @@
 ---
 title: "HyperBuro"
 url: /varennes-vauzelles/hyperburo/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

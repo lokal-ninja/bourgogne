@@ -1,5 +1,5 @@
 ---
 title: "Brico"
 url: /tonnerre/brico/
-shop: Baumarkt
+shop: à faire soi-même
 ---

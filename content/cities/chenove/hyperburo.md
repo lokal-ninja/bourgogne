@@ -1,5 +1,5 @@
 ---
 title: "Hyperburo"
 url: /chenove/hyperburo/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

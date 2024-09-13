@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /paray-le-monial/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ba barock"
 url: /dijon/ba-barock/
-shop: Tattoo
+shop: tatouage
 ---

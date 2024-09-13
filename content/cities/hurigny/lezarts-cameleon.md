@@ -1,5 +1,5 @@
 ---
 title: "lez'arts caméléon"
 url: /hurigny/lezarts-cameleon/
-shop: Friseur
+shop: coiffeur
 ---

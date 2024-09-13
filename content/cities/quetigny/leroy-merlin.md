@@ -1,5 +1,5 @@
 ---
 title: "Leroy Merlin"
 url: /quetigny/leroy-merlin/
-shop: Baumarkt
+shop: à faire soi-même
 ---

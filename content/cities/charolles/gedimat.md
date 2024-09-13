@@ -1,5 +1,5 @@
 ---
 title: "Gedimat"
 url: /charolles/gedimat/
-shop: Eisenwaren
+shop: matériel informatique
 ---

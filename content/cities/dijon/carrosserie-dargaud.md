@@ -1,5 +1,5 @@
 ---
 title: "Carrosserie Dargaud"
 url: /dijon/carrosserie-dargaud/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

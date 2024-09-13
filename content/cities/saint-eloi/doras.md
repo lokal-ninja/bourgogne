@@ -1,5 +1,5 @@
 ---
 title: "Doras"
 url: /saint-eloi/doras/
-shop: Baumarkt
+shop: à faire soi-même
 ---

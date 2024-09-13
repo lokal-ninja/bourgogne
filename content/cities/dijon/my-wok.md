@@ -1,5 +1,5 @@
 ---
 title: "My wok"
 url: /dijon/my-wok/
-shop: Reisebüro
+shop: agence de voyage
 ---

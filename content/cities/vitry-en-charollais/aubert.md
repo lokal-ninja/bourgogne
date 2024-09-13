@@ -1,5 +1,5 @@
 ---
 title: "Aubert"
 url: /vitry-en-charollais/aubert/
-shop: Babysachen
+shop: produits pour bébés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sineo"
 url: /dijon/sineo/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

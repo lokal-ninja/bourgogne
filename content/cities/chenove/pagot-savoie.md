@@ -1,5 +1,5 @@
 ---
 title: "Pagot Savoie"
 url: /chenove/pagot-savoie/
-shop: Großhandel
+shop: vente en gros
 ---

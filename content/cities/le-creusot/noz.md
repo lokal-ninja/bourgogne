@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /le-creusot/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

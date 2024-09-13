@@ -1,5 +1,5 @@
 ---
 title: "Epicerie Solidaire de l'Auxerrois"
 url: /auxerre/epicerie-solidaire-de-lauxerrois/
-shop: Lebensmittel
+shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stokomani"
 url: /fontaine-les-dijon/stokomani/
-shop: Kramladen
+shop: magasin de variétés
 ---

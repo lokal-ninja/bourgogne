@@ -1,5 +1,5 @@
 ---
 title: "Estivin Primeurs"
 url: /coulanges-les-nevers/estivin-primeurs/
-shop: Baustoffe
+shop: commerce
 ---

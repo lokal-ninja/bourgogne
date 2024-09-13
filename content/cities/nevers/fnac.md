@@ -1,5 +1,5 @@
 ---
 title: "Fnac"
 url: /nevers/fnac/
-shop: Bücher
+shop: livres
 ---

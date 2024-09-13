@@ -1,5 +1,5 @@
 ---
 title: "Nissan Trucks"
 url: /varennes-vauzelles/nissan-trucks/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

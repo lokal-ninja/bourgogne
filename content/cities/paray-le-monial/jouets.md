@@ -1,5 +1,5 @@
 ---
 title: "Jouets"
 url: /paray-le-monial/jouets/
-shop: Spielzeug
+shop: jouets
 ---

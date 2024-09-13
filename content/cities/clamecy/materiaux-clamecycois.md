@@ -1,5 +1,5 @@
 ---
 title: "Matériaux clamecycois"
 url: /clamecy/materiaux-clamecycois/
-shop: Baumarkt
+shop: à faire soi-même
 ---

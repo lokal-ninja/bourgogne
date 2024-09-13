@@ -1,5 +1,5 @@
 ---
 title: "Bricomarché"
 url: /bourbon-lancy/bricomarche/
-shop: Baumarkt
+shop: à faire soi-même
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /saint-remy/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

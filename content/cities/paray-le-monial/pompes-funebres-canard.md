@@ -1,5 +1,5 @@
 ---
 title: "Pompes Funèbres Canard"
 url: /paray-le-monial/pompes-funebres-canard/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

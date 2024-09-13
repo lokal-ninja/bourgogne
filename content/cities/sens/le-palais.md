@@ -1,5 +1,5 @@
 ---
 title: "Le Palais"
 url: /sens/le-palais/
-shop: Kiosk
+shop: kiosque
 ---

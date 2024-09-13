@@ -1,5 +1,5 @@
 ---
 title: "Voyages"
 url: /montceau-les-mines/voyages/
-shop: Reisebüro
+shop: agence de voyage
 ---

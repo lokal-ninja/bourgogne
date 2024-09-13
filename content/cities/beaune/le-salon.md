@@ -1,5 +1,5 @@
 ---
 title: "Le Salon"
 url: /beaune/le-salon/
-shop: Friseur
+shop: coiffeur
 ---

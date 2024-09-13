@@ -1,5 +1,5 @@
 ---
 title: "La Poissonnerie Boulonnaise"
 url: /ahuy/la-poissonnerie-boulonnaise/
-shop: Fisch
+shop: fruits de mer
 ---

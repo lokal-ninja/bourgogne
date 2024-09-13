@@ -1,5 +1,5 @@
 ---
 title: "C.M.G."
 url: /varennes-vauzelles/c-m-g/
-shop: Baumarkt
+shop: à faire soi-même
 ---

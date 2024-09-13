@@ -1,5 +1,5 @@
 ---
 title: "Le petit Marcignot"
 url: /marcigny/le-petit-marcignot/
-shop: Bäckerei
+shop: boulangerie
 ---

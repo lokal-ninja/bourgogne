@@ -1,5 +1,5 @@
 ---
 title: "Gedimat"
 url: /pouilly-en-auxois/gedimat/
-shop: Baumarkt
+shop: à faire soi-même
 ---

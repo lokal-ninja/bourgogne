@@ -1,5 +1,5 @@
 ---
 title: "Experience Center Lapierre"
 url: /dijon/experience-center-lapierre/
-shop: Fahrrad
+shop: vélo
 ---

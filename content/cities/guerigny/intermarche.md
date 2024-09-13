@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /guerigny/intermarche/
-shop: Supermarkt
+shop: supermarché
 ---

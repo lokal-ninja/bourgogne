@@ -1,5 +1,5 @@
 ---
 title: "Agri Sud Est"
 url: /ciry-le-noble/agri-sud-est/
-shop: Garten-Center
+shop: centre de jardinage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /quetigny/citroen/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

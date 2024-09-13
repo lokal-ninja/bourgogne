@@ -1,5 +1,5 @@
 ---
 title: "L'Atelier"
 url: /genelard/latelier/
-shop: Blumen
+shop: fleuriste
 ---

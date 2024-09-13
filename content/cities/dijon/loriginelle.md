@@ -1,5 +1,5 @@
 ---
 title: "L'originelle"
 url: /dijon/loriginelle/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oxyg'N"
 url: /sens/oxygn/
-shop: Friseur
+shop: coiffeur
 ---

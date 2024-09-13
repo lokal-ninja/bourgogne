@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /quetigny/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

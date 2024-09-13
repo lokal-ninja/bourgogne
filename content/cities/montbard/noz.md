@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /montbard/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

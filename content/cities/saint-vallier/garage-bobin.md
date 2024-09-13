@@ -1,5 +1,5 @@
 ---
 title: "Garage Bobin"
 url: /saint-vallier/garage-bobin/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

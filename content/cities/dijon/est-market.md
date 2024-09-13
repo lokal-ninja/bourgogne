@@ -1,5 +1,5 @@
 ---
 title: "Est Market"
 url: /dijon/est-market/
-shop: Dorfladen
+shop: magasin de campagne
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SAS Item auto"
 url: /aisey-sur-seine/sas-item-auto/
-shop: Autoteile
+shop: pièces de voitures
 ---
