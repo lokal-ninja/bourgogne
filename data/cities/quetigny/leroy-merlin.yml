@@ -1,11 +1,11 @@
 id: 121760839
-type: way
+type: node
 latitude: 47.30832
 longitude: 5.09976
 postcode: "21800"
 city: Quetigny
-street: "Boulevard du Grand Marché"
-housenumber: 
-phone: "+33 3 80 48 36 00"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.leroymerlin.fr/v3/p/magasins/dijon-l1308219711"
+street: Boulevard du Grand Marché
+housenumber: ""
+phone: +33 3 80 48 36 00
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.leroymerlin.fr/v3/p/magasins/dijon-l1308219711

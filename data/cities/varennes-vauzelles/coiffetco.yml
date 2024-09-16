@@ -4,8 +4,8 @@ latitude: 47.02098
 longitude: 3.14892
 postcode: "58640"
 city: Varennes-Vauzelles
-street: "Rue Jacques Duclos"
-housenumber: 2
-phone: "+33 3 86 71 01 05"
-opening_hours: "Mo-Sa 09:00-19:00"
+street: Rue Jacques Duclos
+housenumber: "2"
+phone: +33 3 86 71 01 05
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

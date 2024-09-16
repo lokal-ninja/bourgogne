@@ -1,11 +1,11 @@
 id: 147365598
-type: way
+type: node
 latitude: 47.46884
 longitude: 3.51869
 postcode: ""
 city: Clamecy
 street: ""
-housenumber: 
-phone: "+33 3 86 27 25 45"
-opening_hours: "Mo-Fr 07:45-12:00,13:30-18:00; Sa 08:00-12:00"
-website: "https://www.gedimat-cabia-jobert.fr/"
+housenumber: ""
+phone: +33 3 86 27 25 45
+opening_hours: Mo-Fr 07:45-12:00,13:30-18:00; Sa 08:00-12:00
+website: https://www.gedimat-cabia-jobert.fr/

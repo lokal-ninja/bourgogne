@@ -4,8 +4,8 @@ latitude: 47.32587
 longitude: 5.04321
 postcode: "21000"
 city: Dijon
-street: "Rue de la Préfecture"
-housenumber: 113
+street: Rue de la Préfecture
+housenumber: "113"
 phone: "+330380735174"
-opening_hours: "Mo-Fr 07:30-13:45,16:00-19:00"
-website: "https://loriginelle.business.site/"
+opening_hours: Mo-Fr 07:30-13:45,16:00-19:00
+website: https://loriginelle.business.site/

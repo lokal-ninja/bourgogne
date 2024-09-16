@@ -1,11 +1,11 @@
 id: 175066233
-type: way
+type: node
 latitude: 46.56883
 longitude: 5.24817
 postcode: ""
 city: Sainte-Croix
-street: "Impasse de la Borde"
-housenumber: 20
+street: Impasse de la Borde
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "https://www.macarondesaintecroix.com/"
+website: https://www.macarondesaintecroix.com/

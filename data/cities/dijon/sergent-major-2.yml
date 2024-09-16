@@ -5,7 +5,7 @@ longitude: 5.05106
 postcode: "21000"
 city: Dijon
 street: ""
-housenumber: 
-phone: "+33 3 80 33 42 76"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://www.sergent-major.de/on/demandware.store/Sites-SergentMajor-Site/fr_FR/Stores-Details?storeID=2001"
+housenumber: ""
+phone: +33 3 80 33 42 76
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:00-20:00; Su 10:00-19:00
+website: https://www.sergent-major.de/on/demandware.store/Sites-SergentMajor-Site/fr_FR/Stores-Details?storeID=2001

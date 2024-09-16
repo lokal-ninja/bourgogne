@@ -1,11 +1,11 @@
 id: 254702506
-type: way
+type: node
 latitude: 47.28717
 longitude: 5.02071
 postcode: "21300"
 city: Chenôve
-street: "Rue Antoine Becquerel"
+street: Rue Antoine Becquerel
 housenumber: 1 Ter
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00, 14:00-19:00, Sa 09:00-12:00, 14:00-18:00"
+opening_hours: Mo-Fr 09:00-12:00, 14:00-19:00, Sa 09:00-12:00, 14:00-18:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 46.45141
 longitude: 4.11943
 postcode: "71600"
 city: Paray-le-Monial
-street: "Cours Jean Jaurès"
-housenumber: 15
-phone: "+33 3 85 81 29 12"
-opening_hours: "Tu-We 09:00-12:00, 14:00-19:00; Th-Fr 09:00-19:00; Sa 08:30-17:00"
-website: "https://www.32-lesalon.com/"
+street: Cours Jean Jaurès
+housenumber: "15"
+phone: +33 3 85 81 29 12
+opening_hours: Tu-We 09:00-12:00, 14:00-19:00; Th-Fr 09:00-19:00; Sa 08:30-17:00
+website: https://www.32-lesalon.com/

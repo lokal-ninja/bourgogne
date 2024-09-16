@@ -4,8 +4,8 @@ latitude: 47.32305
 longitude: 5.03655
 postcode: "21000"
 city: Dijon
-street: "Rue Mably"
-housenumber: 5
+street: Rue Mably
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 74895427
-type: way
+type: node
 latitude: 47.49578
 longitude: 3.91111
 postcode: "89200"
 city: Avallon
-street: "Avenue du 11 Novembre"
-housenumber: 3
+street: Avenue du 11 Novembre
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://nozarrivages.com/magasin/avallon/"
+website: https://nozarrivages.com/magasin/avallon/

@@ -1,11 +1,11 @@
 id: 117500998
-type: way
+type: node
 latitude: 47.02106
 longitude: 4.8558
 postcode: "21200"
 city: Beaune
-street: "Route de Seurre"
-housenumber: 31
+street: Route de Seurre
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

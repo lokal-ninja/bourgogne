@@ -1,11 +1,11 @@
 id: 474024765
-type: way
+type: node
 latitude: 47.04341
 longitude: 3.13332
 postcode: "58640"
 city: Varennes-Vauzelles
-street: "Route de la Bert"
-housenumber: 
-phone: "+33 3 86 71 62 90"
+street: Route de la Bert
+housenumber: ""
+phone: +33 3 86 71 62 90
 opening_hours: ""
-website: "http://www.malecotpoirier.fr/"
+website: http://www.malecotpoirier.fr/

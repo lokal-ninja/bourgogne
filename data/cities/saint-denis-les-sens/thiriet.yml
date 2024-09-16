@@ -1,11 +1,11 @@
 id: 316024377
-type: way
+type: node
 latitude: 48.21275
 longitude: 3.27517
 postcode: "89100"
 city: Saint-Denis-lès-Sens
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:30; Su 09:30-12:30"
-website: "https://www.thiriet.com/magasins/fiche,13,1158.html?&args=Y29tcF9pZD0xNzEmYWN0aW9uPWZpY2hlJmlkPTE3Mw=="
+opening_hours: Mo-Sa 09:00-19:30; Su 09:30-12:30
+website: https://www.thiriet.com/magasins/fiche,13,1158.html?&args=Y29tcF9pZD0xNzEmYWN0aW9uPWZpY2hlJmlkPTE3Mw==

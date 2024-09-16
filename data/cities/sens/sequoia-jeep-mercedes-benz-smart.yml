@@ -1,11 +1,11 @@
 id: 72797642
-type: way
+type: node
 latitude: 48.20847
 longitude: 3.27637
 postcode: "89100"
 city: Sens
-street: "Boulevard du Pont de Fer"
-housenumber: 5
-phone: "+33 3 39 07 03 57"
+street: Boulevard du Pont de Fer
+housenumber: "5"
+phone: +33 3 39 07 03 57
 opening_hours: ""
-website: "http://www.mercedes-sens.com/"
+website: http://www.mercedes-sens.com/

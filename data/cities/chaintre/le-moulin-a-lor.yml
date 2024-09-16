@@ -4,8 +4,9 @@ latitude: 46.26123
 longitude: 4.77042
 postcode: "71570"
 city: Chaintré
-street: "Route de Juliénas"
-housenumber: 195
+street: Route de Juliénas
+housenumber: "195"
 phone: "+33385378613"
-opening_hours: "Dec-Feb: We-Su 10:30-13:00,16:00-19:30; Mar-Nov: We-Su 10:30-13:00,16:00-20:45; Dec 25 off; Jan 1 off; May 1 off"
+opening_hours: 'Dec-Feb: We-Su 10:30-13:00,16:00-19:30; Mar-Nov: We-Su 10:30-13:00,16:00-20:45;
+    Dec 25 off; Jan 1 off; May 1 off'
 website: ""

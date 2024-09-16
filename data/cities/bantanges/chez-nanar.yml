@@ -1,11 +1,11 @@
 id: 1243979120
-type: way
+type: node
 latitude: 46.60866
 longitude: 5.11046
 postcode: "71500"
 city: Bantanges
-street: "Rue du Bourg"
-housenumber: 599
+street: Rue du Bourg
+housenumber: "599"
 phone: ""
 opening_hours: ""
 website: ""

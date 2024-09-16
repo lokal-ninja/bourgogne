@@ -4,8 +4,8 @@ latitude: 46.99342
 longitude: 3.12315
 postcode: "58000"
 city: Nevers
-street: "Boulevard du Grand Pré des Bordes"
-housenumber: 36
-phone: "+33 3 86 90 20 00"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://opticien.optical-center.fr/259-opticien-nevers-optical-center"
+street: Boulevard du Grand Pré des Bordes
+housenumber: "36"
+phone: +33 3 86 90 20 00
+opening_hours: Mo-Sa 09:00-19:00
+website: https://opticien.optical-center.fr/259-opticien-nevers-optical-center

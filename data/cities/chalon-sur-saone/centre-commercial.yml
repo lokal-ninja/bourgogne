@@ -1,11 +1,11 @@
 id: 121573270
-type: way
+type: node
 latitude: 46.80106
 longitude: 4.86064
 postcode: "71100"
 city: Chalon-sur-Saône
-street: "Avenue Kennedy"
-housenumber: 13
+street: Avenue Kennedy
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

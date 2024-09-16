@@ -1,11 +1,11 @@
 id: 41498321
-type: way
+type: node
 latitude: 47.32383
 longitude: 5.03171
 postcode: "21000"
 city: Dijon
-street: "Place Darcy"
-housenumber: 16
+street: Place Darcy
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00"
+opening_hours: Mo-Sa 09:30-19:00
 website: ""

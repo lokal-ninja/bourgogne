@@ -4,8 +4,8 @@ latitude: 47.31747
 longitude: 5.04351
 postcode: "21000"
 city: Dijon
-street: "Rue Chabot-Charny"
-housenumber: 83
-phone: "+33 3 80 66 45 24"
-opening_hours: "Mo-Sa 08:00-19:30"
+street: Rue Chabot-Charny
+housenumber: "83"
+phone: +33 3 80 66 45 24
+opening_hours: Mo-Sa 08:00-19:30
 website: ""

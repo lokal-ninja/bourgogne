@@ -1,11 +1,11 @@
 id: 233661569
-type: way
+type: node
 latitude: 46.46717
 longitude: 4.11298
 postcode: "71600"
 city: Paray-le-Monial
-street: "Boulevard du Champ Bossu"
-housenumber: 
+street: Boulevard du Champ Bossu
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "http://www.e-leclerc.com/paray-le-monial/magasins-specialises/station/info-station-service"
+opening_hours: 24/7
+website: http://www.e-leclerc.com/paray-le-monial/magasins-specialises/station/info-station-service

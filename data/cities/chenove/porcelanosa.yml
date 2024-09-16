@@ -1,11 +1,11 @@
 id: 128921408
-type: way
+type: node
 latitude: 47.28496
 longitude: 5.01866
 postcode: "21300"
 city: Chenôve
-street: "Rue Jean Moulin"
-housenumber: 4
+street: Rue Jean Moulin
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 09:30-12:00, 14:00-19:00"
+opening_hours: Mo-Sa 09:30-12:00, 14:00-19:00
 website: ""

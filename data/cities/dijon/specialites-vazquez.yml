@@ -4,8 +4,8 @@ latitude: 47.3229
 longitude: 5.04016
 postcode: "21000"
 city: Dijon
-street: "Rue Quentin"
-housenumber: 2
-phone: "+33 3 80 30 37 69"
-opening_hours: "Tu,Fr,Sa 07:00-13:00"
+street: Rue Quentin
+housenumber: "2"
+phone: +33 3 80 30 37 69
+opening_hours: Tu,Fr,Sa 07:00-13:00
 website: ""

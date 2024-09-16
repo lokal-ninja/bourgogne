@@ -4,8 +4,8 @@ latitude: 47.30799
 longitude: 5.02521
 postcode: "21000"
 city: Dijon
-street: "Avenue Jean Jaurès"
-housenumber: 83
+street: Avenue Jean Jaurès
+housenumber: "83"
 phone: ""
 opening_hours: ""
-website: "https://reservebio.fr/"
+website: https://reservebio.fr/

@@ -1,11 +1,11 @@
 id: 282541041
-type: way
+type: node
 latitude: 47.01286
 longitude: 3.15078
 postcode: "58640"
 city: Varennes-Vauzelles
-street: "Boulevard Camille Dagonneau"
-housenumber: 52
-phone: "+33 3 86 36 46 04"
+street: Boulevard Camille Dagonneau
+housenumber: "52"
+phone: +33 3 86 36 46 04
 opening_hours: ""
-website: "https://www.copiefax.fr/"
+website: https://www.copiefax.fr/

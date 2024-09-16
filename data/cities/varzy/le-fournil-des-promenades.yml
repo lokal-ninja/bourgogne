@@ -4,8 +4,9 @@ latitude: 47.35756
 longitude: 3.38733
 postcode: "58210"
 city: Varzy
-street: "Rue Delangle"
-housenumber: 41
+street: Rue Delangle
+housenumber: "41"
 phone: ""
-opening_hours: "Mo,Fr 06:45-13:00,15:00-19:00; Tu,Th,Sa,Su 06:45-13:00; We off; PH 07:00-12:00"
+opening_hours: Mo,Fr 06:45-13:00,15:00-19:00; Tu,Th,Sa,Su 06:45-13:00; We off; PH
+    07:00-12:00
 website: ""

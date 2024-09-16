@@ -1,11 +1,11 @@
 id: 130525830
-type: way
+type: node
 latitude: 46.99379
 longitude: 3.16107
 postcode: "58000"
 city: Nevers
-street: "Rue Etienne Litaud"
-housenumber: 7
+street: Rue Etienne Litaud
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.carre-colbert.com/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.carre-colbert.com/

@@ -4,8 +4,8 @@ latitude: 46.45457
 longitude: 4.11728
 postcode: "71600"
 city: Paray-le-Monial
-street: "Route de Saint-Vincent"
-housenumber: 16
-phone: "+33 3 85 81 39 99"
-opening_hours: "Mo off; Tu-Th 09:00-12:00, 14:00-18:30; Fr 09:00-19:00; Sa 08:00-16:00"
+street: Route de Saint-Vincent
+housenumber: "16"
+phone: +33 3 85 81 39 99
+opening_hours: Mo off; Tu-Th 09:00-12:00, 14:00-18:30; Fr 09:00-19:00; Sa 08:00-16:00
 website: ""

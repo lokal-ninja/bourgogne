@@ -4,8 +4,8 @@ latitude: 47.32905
 longitude: 5.05955
 postcode: "21000"
 city: Dijon
-street: "Avenue Raymond Poincaré"
-housenumber: 9
+street: Avenue Raymond Poincaré
+housenumber: "9"
 phone: ""
-opening_hours: "Su 06:30-12:00; Sa 06:30-12:30,16:00-18:00; Tu-Fr 06:30-12:30,16:00-19:00"
+opening_hours: Su 06:30-12:00; Sa 06:30-12:30,16:00-18:00; Tu-Fr 06:30-12:30,16:00-19:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.03203
 longitude: 4.84111
 postcode: "21200"
 city: Beaune
-street: "Route de Savigny"
-housenumber: 14
+street: Route de Savigny
+housenumber: "14"
 phone: ""
-opening_hours: "Tu-Sa 09:00-12:00, 14:00-18:00"
-website: "https://www.vin-bourgogne-jcguyaux.com/"
+opening_hours: Tu-Sa 09:00-12:00, 14:00-18:00
+website: https://www.vin-bourgogne-jcguyaux.com/

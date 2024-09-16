@@ -1,11 +1,11 @@
 id: 282539357
-type: way
+type: node
 latitude: 46.99717
 longitude: 3.12441
 postcode: "58640"
 city: Varennes-Vauzelles
-street: "Rue Henri Bouquillard"
-housenumber: 
-phone: "+33 3 86 37 47 11"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://maxplus.fr/magasin-76-varennes-vauzelles--nevers-.php"
+street: Rue Henri Bouquillard
+housenumber: ""
+phone: +33 3 86 37 47 11
+opening_hours: Mo-Sa 10:00-19:00
+website: https://maxplus.fr/magasin-76-varennes-vauzelles--nevers-.php

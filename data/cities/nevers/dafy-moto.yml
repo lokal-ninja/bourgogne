@@ -1,11 +1,11 @@
 id: 410830028
-type: way
+type: node
 latitude: 46.99364
 longitude: 3.12298
 postcode: "58000"
 city: Nevers
-street: "Boulevard du Grand Pré des Bordes"
-housenumber: 38
-phone: "+33 3 86 59 30 21"
+street: Boulevard du Grand Pré des Bordes
+housenumber: "38"
+phone: +33 3 86 59 30 21
 opening_hours: ""
 website: ""

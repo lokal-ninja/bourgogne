@@ -4,8 +4,8 @@ latitude: 47.34538
 longitude: 5.0635
 postcode: "21000"
 city: Dijon
-street: "Rue de Mayence"
-housenumber: 12
+street: Rue de Mayence
+housenumber: "12"
 phone: "+33345584760"
-opening_hours: "Mo-Fr 07:30-12:30,13:30-17:30; Sa 08:00-12:00"
-website: "https://www.howdens-cuisines.com/nous-trouver/howdens-cuisines-dijon/"
+opening_hours: Mo-Fr 07:30-12:30,13:30-17:30; Sa 08:00-12:00
+website: https://www.howdens-cuisines.com/nous-trouver/howdens-cuisines-dijon/

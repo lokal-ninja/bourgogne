@@ -4,8 +4,8 @@ latitude: 48.19069
 longitude: 3.40247
 postcode: "89320"
 city: Villiers-Louis
-street: "Grande Rue"
-housenumber: 20
-phone: "+33 6 71 03 63 45"
-opening_hours: "Mo-Su sur appel téléphonique"
+street: Grande Rue
+housenumber: "20"
+phone: +33 6 71 03 63 45
+opening_hours: Mo-Su "sur appel téléphonique"
 website: ""

@@ -1,11 +1,11 @@
 id: 282535643
-type: way
+type: node
 latitude: 47.0089
 longitude: 3.15011
 postcode: "58640"
 city: Varennes-Vauzelles
-street: "Boulevard Camille Dagonneau"
-housenumber: 33
-phone: "+33 3 86 21 92 88"
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.nozarrivages.com/magasin/varennes-vauzelles/"
+street: Boulevard Camille Dagonneau
+housenumber: "33"
+phone: +33 3 86 21 92 88
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.nozarrivages.com/magasin/varennes-vauzelles/

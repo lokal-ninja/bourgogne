@@ -1,11 +1,11 @@
 id: 121386732
-type: way
+type: node
 latitude: 46.45223
 longitude: 4.10176
 postcode: "71600"
 city: Paray-le-Monial
-street: "Rue Abbé Pierre"
-housenumber: 
-phone: "+33 3 85 24 30 38"
-opening_hours: "We 10:00-17:00; Sa[1] 10:00-16:00"
-website: "https://www.emmaus-paray.fr/"
+street: Rue Abbé Pierre
+housenumber: ""
+phone: +33 3 85 24 30 38
+opening_hours: We 10:00-17:00; Sa[1] 10:00-16:00
+website: https://www.emmaus-paray.fr/

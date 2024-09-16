@@ -1,11 +1,11 @@
 id: 148000199
-type: way
+type: node
 latitude: 47.52004
 longitude: 5.10872
 postcode: "21120"
 city: Is-sur-Tille
-street: "Place Villeneuve Moret"
-housenumber: 
+street: Place Villeneuve Moret
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

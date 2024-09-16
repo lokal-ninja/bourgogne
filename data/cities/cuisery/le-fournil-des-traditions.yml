@@ -1,11 +1,11 @@
 id: 141503630
-type: way
+type: node
 latitude: 46.55866
 longitude: 5.00046
 postcode: "71290"
 city: Cuisery
-street: "Place d'Armes"
-housenumber: 57
+street: Place d'Armes
+housenumber: "57"
 phone: ""
-opening_hours: "Tu-Sa 05:30-19:00; Su 05:30-13:00"
+opening_hours: Tu-Sa 05:30-19:00; Su 05:30-13:00
 website: ""

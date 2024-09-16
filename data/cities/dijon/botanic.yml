@@ -1,11 +1,11 @@
 id: 126071978
-type: way
+type: node
 latitude: 47.36152
 longitude: 5.04613
 postcode: "21000"
 city: Dijon
-street: "D 903"
-housenumber: 
-phone: "+33 3 80 76 45 70"
-opening_hours: "Mo-Sa 09:00-19:00; Su 09:30-12:30, 14:00-18:30"
-website: "https://www.botanic.com/nos-magasins/botanic-dijon/dij.html"
+street: D 903
+housenumber: ""
+phone: +33 3 80 76 45 70
+opening_hours: Mo-Sa 09:00-19:00; Su 09:30-12:30, 14:00-18:30
+website: https://www.botanic.com/nos-magasins/botanic-dijon/dij.html

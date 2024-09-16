@@ -4,8 +4,8 @@ latitude: 46.43744
 longitude: 4.26868
 postcode: "71120"
 city: Charolles
-street: "Avenue du 8 Juin 1944"
-housenumber: 4
-phone: "+33 3 85 84 66 17"
-opening_hours: "Mo 14:00-19:00; Tu-Th 09:00-12:30,14:00-19:00; Fr,Sa 09:00-19:00"
-website: "https://www.sept-un-style.fr/"
+street: Avenue du 8 Juin 1944
+housenumber: "4"
+phone: +33 3 85 84 66 17
+opening_hours: Mo 14:00-19:00; Tu-Th 09:00-12:30,14:00-19:00; Fr,Sa 09:00-19:00
+website: https://www.sept-un-style.fr/

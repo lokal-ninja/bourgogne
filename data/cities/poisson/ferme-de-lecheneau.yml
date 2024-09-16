@@ -1,11 +1,11 @@
 id: 846932799
-type: way
+type: node
 latitude: 46.35876
 longitude: 4.15329
 postcode: "71600"
 city: Poisson
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://lecheneaubio.blogspot.com/"
+website: https://lecheneaubio.blogspot.com/

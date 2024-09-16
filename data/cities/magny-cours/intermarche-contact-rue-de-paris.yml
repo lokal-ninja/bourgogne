@@ -1,11 +1,11 @@
 id: 386746728
-type: way
+type: node
 latitude: 46.88577
 longitude: 3.15194
 postcode: "58470"
 city: Magny-Cours
-street: "Rue de Paris"
-housenumber: 
+street: Rue de Paris
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

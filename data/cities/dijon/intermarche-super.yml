@@ -1,11 +1,11 @@
-id: 262693472
+id: 257398271
 type: node
-latitude: 47.32719
-longitude: 5.0487
+latitude: 47.31364
+longitude: 5.0536
 postcode: "21000"
 city: Dijon
-street: "Boulevard Georges Clemenceau"
-housenumber: 12
-phone: "+33 3 80 78 96 00"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-12:30"
-website: "https://www.intermarche.com/magasins/10710/dijon-21000/infos-pratiques"
+street: Boulevard de l'Université
+housenumber: "11"
+phone: +33 3 80 63 19 40
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-12:30
+website: https://www.intermarche.com/magasins/07152/dijon-21000/infos-pratiques

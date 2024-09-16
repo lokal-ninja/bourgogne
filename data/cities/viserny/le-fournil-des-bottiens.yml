@@ -1,11 +1,11 @@
 id: 244414091
-type: way
+type: node
 latitude: 47.56031
 longitude: 4.27771
 postcode: "21500"
 city: Viserny
-street: "Rue des Bottiens"
-housenumber: 13
+street: Rue des Bottiens
+housenumber: "13"
 phone: ""
-opening_hours: "Tu-Su 06:00-12:30,17:00-19:00; Su 06:00-12:30"
+opening_hours: Tu-Su 06:00-12:30,17:00-19:00; Su 06:00-12:30
 website: ""

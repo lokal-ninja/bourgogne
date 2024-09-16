@@ -4,8 +4,9 @@ latitude: 47.3229
 longitude: 5.03996
 postcode: "21000"
 city: Dijon
-street: "Rue Musette"
-housenumber: 14
-phone: "+33 3 80 30 74 34"
-opening_hours: "Mo 14:00-19:00; Tu,Fr 08:30-19:00; We-Th 09:30-12:00, 14:00-19:00; Sa 09:00-19:00; Su off"
+street: Rue Musette
+housenumber: "14"
+phone: +33 3 80 30 74 34
+opening_hours: Mo 14:00-19:00; Tu,Fr 08:30-19:00; We-Th 09:30-12:00, 14:00-19:00;
+    Sa 09:00-19:00; Su off
 website: ""

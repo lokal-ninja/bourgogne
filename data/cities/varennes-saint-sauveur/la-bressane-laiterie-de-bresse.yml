@@ -1,11 +1,11 @@
 id: 140174749
-type: way
+type: node
 latitude: 46.48865
 longitude: 5.2464
 postcode: "71480"
 city: Varennes-Saint-Sauveur
-street: "Route des Charmettes"
-housenumber: 60
-phone: "+33 3 85 76 33 50"
+street: Route des Charmettes
+housenumber: "60"
+phone: +33 3 85 76 33 50
 opening_hours: ""
-website: "https://www.labressane.fr/"
+website: https://www.labressane.fr/

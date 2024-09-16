@@ -4,8 +4,8 @@ latitude: 46.99421
 longitude: 3.16086
 postcode: "58000"
 city: Nevers
-street: "Rue Étienne Litaud"
-housenumber: 7
-phone: "+33 3 86 57 61 16"
+street: Rue Étienne Litaud
+housenumber: "7"
+phone: +33 3 86 57 61 16
 opening_hours: ""
-website: "https://www.visual.fr/"
+website: https://www.visual.fr/

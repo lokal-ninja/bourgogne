@@ -4,8 +4,8 @@ latitude: 46.20984
 longitude: 4.75918
 postcode: "71570"
 city: La Chapelle-de-Guinchay
-street: "Route du Vieux Moulin"
-housenumber: 250
-phone: "+33 9 63 50 79 04"
-opening_hours: "Mo 14:00-19:00; Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00"
-website: "http://www.opticiens-lemaitre.com/"
+street: Route du Vieux Moulin
+housenumber: "250"
+phone: +33 9 63 50 79 04
+opening_hours: Mo 14:00-19:00; Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00
+website: http://www.opticiens-lemaitre.com/

@@ -1,11 +1,11 @@
 id: 487138733
-type: way
+type: node
 latitude: 46.99596
 longitude: 3.12327
 postcode: "58000"
 city: Nevers
-street: "Boulevard du Grand Pré des Bordes"
-housenumber: 52
-phone: "+33 3 86 71 60 00"
-opening_hours: "Mo-Sa 08:30-19:00"
-website: "https://centres.norauto.fr/fr/bourgogne/nievre/58194/nevers"
+street: Boulevard du Grand Pré des Bordes
+housenumber: "52"
+phone: +33 3 86 71 60 00
+opening_hours: Mo-Sa 08:30-19:00
+website: https://centres.norauto.fr/fr/bourgogne/nievre/58194/nevers

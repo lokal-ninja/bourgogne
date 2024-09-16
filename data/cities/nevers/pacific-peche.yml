@@ -4,8 +4,8 @@ latitude: 46.99202
 longitude: 3.12243
 postcode: "58000"
 city: Nevers
-street: "Boulevard du Grand Pré des Bordes"
-housenumber: 29
-phone: "+33 3 86 90 20 20"
+street: Boulevard du Grand Pré des Bordes
+housenumber: "29"
+phone: +33 3 86 90 20 20
 opening_hours: ""
-website: "https://www.pacificpeche.com/magasin-peche-nevers"
+website: https://www.pacificpeche.com/magasin-peche-nevers

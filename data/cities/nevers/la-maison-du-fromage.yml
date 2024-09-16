@@ -4,8 +4,8 @@ latitude: 46.99402
 longitude: 3.16096
 postcode: "58000"
 city: Nevers
-street: "Rue Étienne Litaud"
-housenumber: 7
-phone: "+33 3 86 57 04 99"
+street: Rue Étienne Litaud
+housenumber: "7"
+phone: +33 3 86 57 04 99
 opening_hours: ""
-website: "https://www.maison-du-fromage.fr/"
+website: https://www.maison-du-fromage.fr/

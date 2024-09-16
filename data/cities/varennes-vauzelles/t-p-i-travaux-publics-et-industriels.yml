@@ -1,11 +1,11 @@
 id: 282538866
-type: way
+type: node
 latitude: 47.04729
 longitude: 3.13019
 postcode: "58640"
 city: Varennes-Vauzelles
-street: "Rue Thomas Edison"
-housenumber: 2
-phone: "+33 3 86 59 81 82"
+street: Rue Thomas Edison
+housenumber: "2"
+phone: +33 3 86 59 81 82
 opening_hours: ""
 website: ""

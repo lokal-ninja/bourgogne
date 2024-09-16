@@ -4,8 +4,8 @@ latitude: 47.34212
 longitude: 5.04531
 postcode: "21000"
 city: Dijon
-street: "Avenue du Drapeau"
-housenumber: 100
+street: Avenue du Drapeau
+housenumber: "100"
 phone: "+33380282877"
-opening_hours: "Mo-Sa 09:00-12:30,14:00-20:00"
-website: "https://asduvin.com/"
+opening_hours: Mo-Sa 09:00-12:30,14:00-20:00
+website: https://asduvin.com/

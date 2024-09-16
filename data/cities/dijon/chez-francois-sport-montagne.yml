@@ -4,8 +4,9 @@ latitude: 47.33231
 longitude: 5.04354
 postcode: "21000"
 city: Dijon
-street: "Avenue du Drapeau"
-housenumber: 37
-phone: "+33 3 80 78 25 66"
-opening_hours: "Tu-Th 13:30-19:30; Sa 10:00-12:00, 13:30-19:00; Mo, Su off; Fr 10:00-12:00, 13:30-19:30"
-website: "https://chezfrancoissportmontagne.site-solocal.com/"
+street: Avenue du Drapeau
+housenumber: "37"
+phone: +33 3 80 78 25 66
+opening_hours: Tu-Th 13:30-19:30; Sa 10:00-12:00, 13:30-19:00; Mo, Su off; Fr 10:00-12:00,
+    13:30-19:30
+website: https://chezfrancoissportmontagne.site-solocal.com/

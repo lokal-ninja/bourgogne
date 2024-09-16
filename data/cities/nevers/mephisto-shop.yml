@@ -4,8 +4,8 @@ latitude: 46.98929
 longitude: 3.15975
 postcode: "58000"
 city: Nevers
-street: "Rue Saint-Martin"
-housenumber: 17
-phone: "+33 3 86 61 58 36"
-opening_hours: "Tu-Fr 09:30-12:00,14:00-19:00; Sa 09:30-19:00"
-website: "http://fr.mephisto.com"
+street: Rue Saint-Martin
+housenumber: "17"
+phone: +33 3 86 61 58 36
+opening_hours: Tu-Fr 09:30-12:00,14:00-19:00; Sa 09:30-19:00
+website: http://fr.mephisto.com

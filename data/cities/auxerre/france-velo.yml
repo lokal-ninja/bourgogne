@@ -4,8 +4,8 @@ latitude: 47.7958
 longitude: 3.56965
 postcode: "89000"
 city: Auxerre
-street: "Rue de l'Horloge"
-housenumber: 7
-phone: "+33.3 86 42 35 96"
+street: Rue de l'Horloge
+housenumber: "7"
+phone: +33.3 86 42 35 96
 opening_hours: ""
-website: "https://www.franceavelo.com/"
+website: https://www.franceavelo.com/

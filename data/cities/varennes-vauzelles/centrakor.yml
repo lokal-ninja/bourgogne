@@ -1,11 +1,11 @@
 id: 282536001
-type: way
+type: node
 latitude: 46.99725
 longitude: 3.12284
 postcode: "58640"
 city: Varennes-Vauzelles
-street: "Rue Henri Bouquillard"
-housenumber: 
-phone: "+33 3 86 37 37 31"
+street: Rue Henri Bouquillard
+housenumber: ""
+phone: +33 3 86 37 37 31
 opening_hours: ""
-website: "https://www.centrakor.com/"
+website: https://www.centrakor.com/

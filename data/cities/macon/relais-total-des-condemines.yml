@@ -1,11 +1,11 @@
 id: 52515848
-type: way
+type: node
 latitude: 46.28486
 longitude: 4.80816
 postcode: "71000"
 city: MÂCON
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

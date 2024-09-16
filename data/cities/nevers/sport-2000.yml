@@ -4,8 +4,8 @@ latitude: 46.99112
 longitude: 3.12312
 postcode: "58000"
 city: Nevers
-street: "Boulevard du Grand Pré des Bordes"
-housenumber: 23
-phone: "+33 3 86 61 80 62"
+street: Boulevard du Grand Pré des Bordes
+housenumber: "23"
+phone: +33 3 86 61 80 62
 opening_hours: ""
-website: "https://www.sport2000.fr/magasin/sport-2000/sport-2000-nevers.html"
+website: https://www.sport2000.fr/magasin/sport-2000/sport-2000-nevers.html

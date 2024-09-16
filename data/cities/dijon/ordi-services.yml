@@ -4,8 +4,8 @@ latitude: 47.32509
 longitude: 5.02907
 postcode: "21000"
 city: Dijon
-street: "Rue Guillaume Tell"
-housenumber: 35
-phone: "+33 3 80 56 44 32"
-opening_hours: "Mo-Fr 10:00-12:30, 14:30-19:00; Sa 10:00-12:30"
-website: "https://www.ordiservices-dijon.fr/"
+street: Rue Guillaume Tell
+housenumber: "35"
+phone: +33 3 80 56 44 32
+opening_hours: Mo-Fr 10:00-12:30, 14:30-19:00; Sa 10:00-12:30
+website: https://www.ordiservices-dijon.fr/

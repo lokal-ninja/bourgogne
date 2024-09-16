@@ -4,8 +4,8 @@ latitude: 46.99454
 longitude: 3.12218
 postcode: "58000"
 city: Nevers
-street: "Boulevard du Grand Pré des Bordes"
-housenumber: 47
-phone: "+33 3 65 61 10 20"
-opening_hours: "Mo-Fr 10:00-12:00,14:00-19:00; Sa 10:00-19:00"
-website: "https://www.mobalpa.fr/magasin/mobalpa-nevers"
+street: Boulevard du Grand Pré des Bordes
+housenumber: "47"
+phone: +33 3 65 61 10 20
+opening_hours: Mo-Fr 10:00-12:00,14:00-19:00; Sa 10:00-19:00
+website: https://www.mobalpa.fr/magasin/mobalpa-nevers

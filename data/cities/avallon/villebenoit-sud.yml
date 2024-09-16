@@ -1,11 +1,11 @@
 id: 74901034
-type: way
+type: node
 latitude: 47.49897
 longitude: 3.89566
 postcode: "89200"
 city: Avallon
-street: "Rue de la Grande Corvee"
-housenumber: 
+street: Rue de la Grande Corvee
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

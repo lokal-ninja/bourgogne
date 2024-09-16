@@ -1,11 +1,11 @@
 id: 254705791
-type: way
+type: node
 latitude: 47.28847
 longitude: 5.02059
 postcode: "21300"
 city: Chenôve
-street: "Impasse Jean Perrin"
-housenumber: 7
-phone: "+33 3 80 59 92 92"
-opening_hours: "Mo-Fr 07:30-12:00, 13:30-17:30; Sa 08:00-12:00; Su off"
-website: "https://www.cedeo.fr/infos-agence/dijon-cedeo-2591"
+street: Impasse Jean Perrin
+housenumber: "7"
+phone: +33 3 80 59 92 92
+opening_hours: Mo-Fr 07:30-12:00, 13:30-17:30; Sa 08:00-12:00; Su off
+website: https://www.cedeo.fr/infos-agence/dijon-cedeo-2591

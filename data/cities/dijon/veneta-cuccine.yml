@@ -4,8 +4,8 @@ latitude: 47.32443
 longitude: 5.03684
 postcode: "21000"
 city: Dijon
-street: "Boulevard de Brosses"
-housenumber: 13
-phone: "+33 3 73 27 03 33"
-opening_hours: "Tu-Fr 10:00-12:00, 14:00-18:30; Sa 10:00-18:00"
-website: "https://venetacucinedijon.fr/"
+street: Boulevard de Brosses
+housenumber: "13"
+phone: +33 3 73 27 03 33
+opening_hours: Tu-Fr 10:00-12:00, 14:00-18:30; Sa 10:00-18:00
+website: https://venetacucinedijon.fr/

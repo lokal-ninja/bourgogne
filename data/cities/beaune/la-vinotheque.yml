@@ -4,8 +4,8 @@ latitude: 47.02268
 longitude: 4.83768
 postcode: "21200"
 city: Beaune
-street: "Rue Pasumot"
-housenumber: 4
+street: Rue Pasumot
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Su,PH 09:30-19:00"
-website: "https://bourgogne-vinotheque.com/fr/"
+opening_hours: Mo-Su,PH 09:30-19:00
+website: https://bourgogne-vinotheque.com/fr/

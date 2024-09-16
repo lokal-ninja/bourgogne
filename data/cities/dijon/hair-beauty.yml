@@ -4,8 +4,8 @@ latitude: 47.32149
 longitude: 5.04811
 postcode: "21000"
 city: Dijon
-street: "Rue Jeannin"
-housenumber: 87
+street: Rue Jeannin
+housenumber: "87"
 phone: "+33954580351"
-opening_hours: "Mo, Tu, Th-Sa 09:00-19:00"
+opening_hours: Mo, Tu, Th-Sa 09:00-19:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.32367
 longitude: 5.03958
 postcode: "21000"
 city: Dijon
-street: "Rue Odebert"
-housenumber: 
+street: Rue Odebert
+housenumber: ""
 phone: ""
-opening_hours: "Tu,Fr,Su 07:30-12:30"
+opening_hours: Tu,Fr,Su 07:30-12:30
 website: ""

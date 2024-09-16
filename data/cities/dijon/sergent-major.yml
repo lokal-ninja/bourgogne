@@ -4,8 +4,8 @@ latitude: 47.32164
 longitude: 5.03987
 postcode: "21000"
 city: Dijon
-street: "Rue du Bourg"
-housenumber: 7
-phone: "+33 3 80 49 80 02"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.sergent-major.de/on/demandware.store/Sites-SergentMajor-Site/fr_FR/Stores-Details?storeID=1136"
+street: Rue du Bourg
+housenumber: "7"
+phone: +33 3 80 49 80 02
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.sergent-major.de/on/demandware.store/Sites-SergentMajor-Site/fr_FR/Stores-Details?storeID=1136

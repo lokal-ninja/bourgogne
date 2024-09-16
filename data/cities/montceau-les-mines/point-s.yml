@@ -4,8 +4,8 @@ latitude: 46.68855
 longitude: 4.35495
 postcode: "71300"
 city: Montceau-les-Mines
-street: "Rue de Châtillon"
-housenumber: 14
-phone: "+33 3 73 55 71 71"
-opening_hours: "Tu-Fr 08:30-12:00, 14:00-18:30; Sa 08:30-12:00, 13:00-17:00"
-website: "https://www.points.fr/centre/my-center-s-montceau-les-mines/"
+street: Rue de Châtillon
+housenumber: "14"
+phone: +33 3 73 55 71 71
+opening_hours: Tu-Fr 08:30-12:00, 14:00-18:30; Sa 08:30-12:00, 13:00-17:00
+website: https://www.points.fr/centre/my-center-s-montceau-les-mines/

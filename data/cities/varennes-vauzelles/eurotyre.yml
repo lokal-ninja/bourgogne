@@ -1,11 +1,11 @@
 id: 282542158
-type: way
+type: node
 latitude: 47.01184
 longitude: 3.1506
 postcode: "58640"
 city: Varennes-Vauzelles
-street: "Boulevard Camille Dagonneau"
-housenumber: 45
-phone: "+33 3 86 23 96 69"
+street: Boulevard Camille Dagonneau
+housenumber: "45"
+phone: +33 3 86 23 96 69
 opening_hours: ""
-website: "https://varennes-vauzelles-pneus.eurotyre.fr/"
+website: https://varennes-vauzelles-pneus.eurotyre.fr/

@@ -1,11 +1,11 @@
 id: 218093335
-type: way
+type: node
 latitude: 47.69922
 longitude: 2.94804
 postcode: "89220"
 city: Bléneau
-street: "Place Chataigner"
-housenumber: 9
+street: Place Chataigner
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

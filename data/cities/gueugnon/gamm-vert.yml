@@ -1,11 +1,11 @@
 id: 127331667
-type: way
+type: node
 latitude: 46.59001
 longitude: 4.06817
 postcode: "71130"
 city: Gueugnon
-street: "Route de Digoin"
-housenumber: 
-phone: "+33 3 85 85 80 30"
-opening_hours: "Mo-Sa 09:00-12:00, 14:00-19:00"
-website: "https://magasin.gammvert.fr/922252-gamm-vert-de-gueugnon"
+street: Route de Digoin
+housenumber: ""
+phone: +33 3 85 85 80 30
+opening_hours: Mo-Sa 09:00-12:00, 14:00-19:00
+website: https://magasin.gammvert.fr/922252-gamm-vert-de-gueugnon

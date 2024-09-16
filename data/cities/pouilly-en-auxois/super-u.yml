@@ -1,11 +1,11 @@
 id: 41111969
-type: way
+type: node
 latitude: 47.27148
 longitude: 4.54091
 postcode: "21320"
 city: Pouilly-en-Auxois
-street: "Rue du Sergent Stéphane Mazeau"
-housenumber: 
-phone: "+33 3 80 90 81 88"
-opening_hours: "Mo-Sa 08:30-19:30"
+street: Rue du Sergent Stéphane Mazeau
+housenumber: ""
+phone: +33 3 80 90 81 88
+opening_hours: Mo-Sa 08:30-19:30
 website: ""

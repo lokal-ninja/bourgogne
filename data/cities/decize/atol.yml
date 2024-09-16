@@ -1,11 +1,11 @@
 id: 131043079
-type: way
+type: node
 latitude: 46.82881
 longitude: 3.46243
 postcode: "58300"
 city: Decize
-street: "Rue de la République"
-housenumber: 25
+street: Rue de la République
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

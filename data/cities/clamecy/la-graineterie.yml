@@ -4,8 +4,8 @@ latitude: 47.45934
 longitude: 3.51963
 postcode: "58500"
 city: Clamecy
-street: "Rue de la Monnaie"
-housenumber: 2
+street: Rue de la Monnaie
+housenumber: "2"
 phone: ""
-opening_hours: "tu-sa"
-website: "https://www.biobourgogne-vitrine.org/maison-citoyenne-de-clamecy--la-graineterie_p159.php"
+opening_hours: tu-sa
+website: https://www.biobourgogne-vitrine.org/maison-citoyenne-de-clamecy--la-graineterie_p159.php

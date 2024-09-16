@@ -1,11 +1,11 @@
 id: 282540089
-type: way
+type: node
 latitude: 46.99666
 longitude: 3.12508
 postcode: "58640"
 city: Varennes-Vauzelles
-street: "Rue Henri Bouquillard"
-housenumber: 
+street: Rue Henri Bouquillard
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

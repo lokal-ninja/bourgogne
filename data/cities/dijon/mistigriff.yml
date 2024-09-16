@@ -4,8 +4,8 @@ latitude: 47.3217
 longitude: 5.0366
 postcode: "21000"
 city: Dijon
-street: "Rue du Chapeau Rouge"
-housenumber: 14
-phone: "+33 9 63 29 24 41"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-19:30"
-website: "https://www.mistigriff.fr/"
+street: Rue du Chapeau Rouge
+housenumber: "14"
+phone: +33 9 63 29 24 41
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-19:30
+website: https://www.mistigriff.fr/

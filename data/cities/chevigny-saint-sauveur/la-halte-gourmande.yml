@@ -4,8 +4,9 @@ latitude: 47.29878
 longitude: 5.13378
 postcode: "21800"
 city: Chevigny-Saint-Sauveur
-street: "Place de la Liberté"
-housenumber: 18
+street: Place de la Liberté
+housenumber: "18"
 phone: ""
-opening_hours: "Tu,Th,Fr 06:30-19:00; We 06:00-19:00; Sa 06:30-12:45,15:00-19:00; Su 06:30-12:30"
+opening_hours: Tu,Th,Fr 06:30-19:00; We 06:00-19:00; Sa 06:30-12:45,15:00-19:00; Su
+    06:30-12:30
 website: ""

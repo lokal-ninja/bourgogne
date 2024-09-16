@@ -1,11 +1,11 @@
 id: 703504652
-type: way
+type: node
 latitude: 46.68334
 longitude: 4.37318
 postcode: "71300"
 city: Montceau-les-Mines
-street: "Avenue Maréchal Leclerc"
-housenumber: 
-phone: "+33 3 85 67 70 70"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "http://www.e-leclerc.com/montceau-les-mines/magasins-specialises/station/info-station-service"
+street: Avenue Maréchal Leclerc
+housenumber: ""
+phone: +33 3 85 67 70 70
+opening_hours: Mo-Sa 09:00-19:00
+website: http://www.e-leclerc.com/montceau-les-mines/magasins-specialises/station/info-station-service

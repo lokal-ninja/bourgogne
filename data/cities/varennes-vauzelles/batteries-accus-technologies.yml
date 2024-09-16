@@ -1,11 +1,11 @@
 id: 282539312
-type: way
+type: node
 latitude: 47.04569
 longitude: 3.12636
 postcode: "58640"
 city: Varennes-Vauzelles
-street: "Rue Denis Papin"
-housenumber: 8
-phone: "+33 3 86 36 86 81"
+street: Rue Denis Papin
+housenumber: "8"
+phone: +33 3 86 36 86 81
 opening_hours: ""
-website: "https://www.batteries-accus-technologies-nievre.fr/"
+website: https://www.batteries-accus-technologies-nievre.fr/

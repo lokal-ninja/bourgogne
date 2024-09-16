@@ -1,11 +1,11 @@
 id: 870790449
-type: way
+type: node
 latitude: 46.85547
 longitude: 3.16967
 postcode: "58490"
 city: Saint-Parize-le-Châtel
-street: "Route du Circuit"
-housenumber: 
-phone: "+33 3 86 37 00 00"
-opening_hours: "Mo-Fr 09:00-12:30,14:00-18:30"
+street: Route du Circuit
+housenumber: ""
+phone: +33 3 86 37 00 00
+opening_hours: Mo-Fr 09:00-12:30,14:00-18:30
 website: ""

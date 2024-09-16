@@ -4,8 +4,9 @@ latitude: 46.26309
 longitude: 4.0907
 postcode: "71110"
 city: Semur-en-Brionnais
-street: "Grand' Rue"
-housenumber: 180
-phone: "+33 3 85 81 99 27"
-opening_hours: "Tu-We 10:00-12:00, 16:00-19:00; Th off; Fr 10:00-12:00, 16:00-19:00; Sa 10:00-13:00"
-website: "https://magasindespossibles.fr/"
+street: Grand' Rue
+housenumber: "180"
+phone: +33 3 85 81 99 27
+opening_hours: Tu-We 10:00-12:00, 16:00-19:00; Th off; Fr 10:00-12:00, 16:00-19:00;
+    Sa 10:00-13:00
+website: https://magasindespossibles.fr/

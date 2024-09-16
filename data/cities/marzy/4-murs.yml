@@ -1,11 +1,11 @@
 id: 306607397
-type: way
+type: node
 latitude: 46.99918
 longitude: 3.10574
 postcode: "58180"
 city: Marzy
-street: "Route de Fourchambault"
-housenumber: 
+street: Route de Fourchambault
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

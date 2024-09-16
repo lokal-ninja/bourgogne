@@ -4,8 +4,8 @@ latitude: 47.32427
 longitude: 5.03782
 postcode: "21000"
 city: Dijon
-street: "Rue du Château"
-housenumber: 22
+street: Rue du Château
+housenumber: "22"
 phone: "+33380302340"
 opening_hours: ""
-website: "https://institutmonalisa.fr/"
+website: https://institutmonalisa.fr/

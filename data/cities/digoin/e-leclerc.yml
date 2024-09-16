@@ -1,11 +1,11 @@
 id: 233561522
-type: way
+type: node
 latitude: 46.48987
 longitude: 3.9931
 postcode: "71160"
 city: Digoin
-street: "Esplanade Commercial des Donjons"
-housenumber: 
-phone: "+33 3 85 53 75 00"
-opening_hours: "Mo-Th 09:00-19:15; Fr 09:00-19:45; Sa 09:00-19:15"
-website: "http://www.e-leclerc.com/digoin/infos-magasins"
+street: Esplanade Commercial des Donjons
+housenumber: ""
+phone: +33 3 85 53 75 00
+opening_hours: Mo-Th 09:00-19:15; Fr 09:00-19:45; Sa 09:00-19:15
+website: http://www.e-leclerc.com/digoin/infos-magasins

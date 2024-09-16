@@ -1,11 +1,11 @@
 id: 156968078
-type: way
+type: node
 latitude: 46.78989
 longitude: 4.40646
 postcode: "71710"
 city: Montcenis
-street: "Rue Maréchal Joffre"
-housenumber: 22
+street: Rue Maréchal Joffre
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

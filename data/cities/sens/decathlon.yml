@@ -1,11 +1,11 @@
 id: 255380901
-type: way
+type: node
 latitude: 48.17185
 longitude: 3.28752
 postcode: "89100"
 city: Sens
-street: "Zone commerciale"
-housenumber: 
+street: Zone commerciale
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.decathlon.fr/fr/store?store_id=PS_281"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.decathlon.fr/fr/store?store_id=PS_281

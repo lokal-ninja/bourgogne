@@ -4,8 +4,9 @@ latitude: 47.30928
 longitude: 5.01562
 postcode: "21000"
 city: Dijon
-street: "Boulevard Eugène Fyot"
-housenumber: 40
-phone: "+33 3 80 76 93 73"
-opening_hours: "Tu 09:00-12:00,14:00-18:00; Th 14:00-18:30; Fr 09:00-13:00,14:00-19:00; Sa 08:00-16:00"
-website: "http://salon-elegancia.com/"
+street: Boulevard Eugène Fyot
+housenumber: "40"
+phone: +33 3 80 76 93 73
+opening_hours: Tu 09:00-12:00,14:00-18:00; Th 14:00-18:30; Fr 09:00-13:00,14:00-19:00;
+    Sa 08:00-16:00
+website: http://salon-elegancia.com/

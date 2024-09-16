@@ -4,8 +4,8 @@ latitude: 46.99221
 longitude: 3.17969
 postcode: "58000"
 city: Nevers
-street: "Rue Albert 1er"
-housenumber: 30
-phone: "+33 3 86 61 11 48"
+street: Rue Albert 1er
+housenumber: "30"
+phone: +33 3 86 61 11 48
 opening_hours: ""
-website: "http://renault-berger-nevers.fr/"
+website: http://renault-berger-nevers.fr/

@@ -1,11 +1,11 @@
 id: 134447948
-type: way
+type: node
 latitude: 46.68851
 longitude: 4.36199
 postcode: "71300"
 city: Montceau-les-Mines
-street: "Rue Sainte-Élisabeth"
-housenumber: 
+street: Rue Sainte-Élisabeth
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-12:00, 14:00-19:00; Su off"
-website: "https://magasin.darty.com/209-darty-montceau-les-mines"
+opening_hours: Mo-Sa 10:00-12:00, 14:00-19:00; Su off
+website: https://magasin.darty.com/209-darty-montceau-les-mines

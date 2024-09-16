@@ -4,8 +4,8 @@ latitude: 47.39168
 longitude: 5.06613
 postcode: "21490"
 city: Norges-la-Ville
-street: "Route de Dijon"
-housenumber: 74
-phone: "We 14:00-17:30;Sa-Su 14:30-17:30"
-opening_hours: "Sa,Su 14:30-17:30; We 14:00-17:30"
-website: "https://www.emmaus-dijon.org/norges"
+street: Route de Dijon
+housenumber: "74"
+phone: We 14:00-17:30;Sa-Su 14:30-17:30
+opening_hours: Sa,Su 14:30-17:30; We 14:00-17:30
+website: https://www.emmaus-dijon.org/norges

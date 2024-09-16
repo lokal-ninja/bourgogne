@@ -1,11 +1,11 @@
 id: 126055232
-type: way
+type: node
 latitude: 47.33801
 longitude: 5.05778
 postcode: "21000"
 city: Dijon
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00; PH,Su off"
+opening_hours: Mo-Fr 08:30-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00; PH,Su off
 website: ""

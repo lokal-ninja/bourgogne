@@ -1,11 +1,11 @@
 id: 467158006
-type: way
+type: node
 latitude: 46.9932
 longitude: 3.12347
 postcode: "58000"
 city: Nevers
-street: "Boulevard du Grand Pré des Bordes"
-housenumber: 34
-phone: "+33 3 86 36 09 22"
+street: Boulevard du Grand Pré des Bordes
+housenumber: "34"
+phone: +33 3 86 36 09 22
 opening_hours: ""
-website: "https://www.babou.fr/magasin/NEVERS"
+website: https://www.babou.fr/magasin/NEVERS

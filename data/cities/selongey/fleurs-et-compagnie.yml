@@ -1,11 +1,11 @@
 id: 147095569
-type: way
+type: node
 latitude: 47.58764
 longitude: 5.18565
 postcode: "21260"
 city: Selongey
-street: "Place des Halles"
-housenumber: 2
+street: Place des Halles
+housenumber: "2"
 phone: "0380950167"
 opening_hours: ""
 website: ""

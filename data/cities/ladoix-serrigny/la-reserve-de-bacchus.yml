@@ -1,11 +1,11 @@
 id: 482727209
-type: way
+type: node
 latitude: 47.07697
 longitude: 4.8838
 postcode: "21550"
 city: Ladoix-Serrigny
-street: "Route de Dijon"
-housenumber: 4
+street: Route de Dijon
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.facebook.com/RDBacchus"
+website: https://www.facebook.com/RDBacchus

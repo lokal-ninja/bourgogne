@@ -1,11 +1,11 @@
 id: 126188564
-type: way
+type: node
 latitude: 47.00449
 longitude: 3.15288
 postcode: "58000"
 city: Nevers
 street: ""
-housenumber: 
-phone: "+33 3 58 35 99 20"
-opening_hours: "Mo-Sa 08:30-19:30; Su 08:30-13:00"
-website: "https://magasin.netto.fr/472-netto-nevers"
+housenumber: ""
+phone: +33 3 58 35 99 20
+opening_hours: Mo-Sa 08:30-19:30; Su 08:30-13:00
+website: https://magasin.netto.fr/472-netto-nevers

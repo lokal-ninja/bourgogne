@@ -4,8 +4,8 @@ latitude: 47.49497
 longitude: 3.92358
 postcode: "89200"
 city: Avallon
-street: "Route de Sauvigny"
-housenumber: 24
-phone: "+33 3 86 52 86 04"
-opening_hours: "24/7"
-website: "https://www.pompesfunebresdubois.fr"
+street: Route de Sauvigny
+housenumber: "24"
+phone: +33 3 86 52 86 04
+opening_hours: 24/7
+website: https://www.pompesfunebresdubois.fr

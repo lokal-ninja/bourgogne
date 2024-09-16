@@ -1,11 +1,11 @@
 id: 1279059250
-type: way
+type: node
 latitude: 47.3103
 longitude: 5.09842
 postcode: "21800"
 city: Quetigny
-street: "Boulevard du Grand Marché"
-housenumber: 14
-phone: "+33 3 80 30 02 10"
-opening_hours: "Mo-Sa 10:00-19:00"
+street: Boulevard du Grand Marché
+housenumber: "14"
+phone: +33 3 80 30 02 10
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

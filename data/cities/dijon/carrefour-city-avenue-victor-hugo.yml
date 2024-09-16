@@ -4,8 +4,8 @@ latitude: 47.32922
 longitude: 5.02548
 postcode: "21000"
 city: Dijon
-street: "Avenue Victor Hugo"
-housenumber: 64
+street: Avenue Victor Hugo
+housenumber: "64"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/carrefour-city-dijon-victor-hugo"
+opening_hours: Mo-Sa 07:00-22:00; Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/carrefour-city-dijon-victor-hugo

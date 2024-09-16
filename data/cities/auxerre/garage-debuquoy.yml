@@ -1,11 +1,11 @@
 id: 62626905
-type: way
+type: node
 latitude: 47.79678
 longitude: 3.58126
 postcode: "89000"
 city: Auxerre
-street: "Avenue Gambetta"
-housenumber: 21
+street: Avenue Gambetta
+housenumber: "21"
 phone: "+33086720903"
 opening_hours: ""
-website: "https://www.garage-debuquoy.fr/"
+website: https://www.garage-debuquoy.fr/

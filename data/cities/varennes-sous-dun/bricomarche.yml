@@ -1,11 +1,11 @@
 id: 329726006
-type: way
+type: node
 latitude: 46.28873
 longitude: 4.31949
 postcode: "71800"
 city: Varennes-sous-Dun
-street: "La Croix Bouthier"
-housenumber: 
-phone: "+33 3 85 28 94 00"
-opening_hours: "Mo-Sa 09:00-12:00, 14:00-19:00; Su off"
-website: "https://www.bricomarche.com/magasin/varennes-sous-dun-la-clayette/04309"
+street: La Croix Bouthier
+housenumber: ""
+phone: +33 3 85 28 94 00
+opening_hours: Mo-Sa 09:00-12:00, 14:00-19:00; Su off
+website: https://www.bricomarche.com/magasin/varennes-sous-dun-la-clayette/04309

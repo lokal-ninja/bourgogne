@@ -4,8 +4,8 @@ latitude: 48.20781
 longitude: 3.27756
 postcode: "89100"
 city: Sens
-street: "Avenue Georges Pompidou"
-housenumber: 18
+street: Avenue Georges Pompidou
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00; Su 10:00-12:30, 14:30-18:30"
-website: "https://www.lafoirfouille.fr/magasin/la-foir-fouille-sens.html"
+opening_hours: Mo-Sa 09:30-19:00; Su 10:00-12:30, 14:30-18:30
+website: https://www.lafoirfouille.fr/magasin/la-foir-fouille-sens.html

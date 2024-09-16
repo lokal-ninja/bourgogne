@@ -4,8 +4,8 @@ latitude: 47.32454
 longitude: 5.04246
 postcode: "21000"
 city: Dijon
-street: "Rue de la Préfecture"
-housenumber: 42
+street: Rue de la Préfecture
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

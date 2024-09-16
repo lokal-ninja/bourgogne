@@ -4,8 +4,8 @@ latitude: 47.34712
 longitude: 5.1815
 postcode: "21560"
 city: Arc-sur-Tille
-street: "Rue des Chézeaux"
-housenumber: 58
-phone: "03 80 37 06 55"
-opening_hours: "Mo-Fr 09:00-12:30,14:00-19:00; Sa 09:00-19:00; Su 09:00-12:30"
+street: Rue des Chézeaux
+housenumber: "58"
+phone: 03 80 37 06 55
+opening_hours: Mo-Fr 09:00-12:30,14:00-19:00; Sa 09:00-19:00; Su 09:00-12:30
 website: ""

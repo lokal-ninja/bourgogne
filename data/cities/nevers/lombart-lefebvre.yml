@@ -1,11 +1,11 @@
 id: 126155417
-type: way
+type: node
 latitude: 46.9938
 longitude: 3.14852
 postcode: "58000"
 city: Nevers
-street: "Rue Des Docks"
-housenumber: 3
-phone: "+33 3 86 57 27 61"
+street: Rue Des Docks
+housenumber: "3"
+phone: +33 3 86 57 27 61
 opening_hours: ""
-website: "http://www.lombart-lefebvre.fr/"
+website: http://www.lombart-lefebvre.fr/

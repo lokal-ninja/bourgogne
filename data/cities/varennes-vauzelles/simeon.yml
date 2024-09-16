@@ -1,11 +1,11 @@
 id: 282535774
-type: way
+type: node
 latitude: 47.02932
 longitude: 3.14489
 postcode: "58640"
 city: Varennes-Vauzelles
-street: "Route de Paris"
-housenumber: 16
-phone: "+33 3 86 36 06 73"
+street: Route de Paris
+housenumber: "16"
+phone: +33 3 86 36 06 73
 opening_hours: ""
 website: ""

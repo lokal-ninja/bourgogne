@@ -4,8 +4,9 @@ latitude: 47.32219
 longitude: 5.05262
 postcode: "21000"
 city: Dijon
-street: "Place du 30 Octobre et de la Légion d'Honneur"
-housenumber: 8
-phone: "+33 3 80 65 80 08"
-opening_hours: "Mo-Th 08:30-12:00,14:00-18:30; Fr 08:30-12:00,14:00-17:30; Sa,Su,PH off"
-website: "https://www.midas.fr/"
+street: Place du 30 Octobre et de la Légion d'Honneur
+housenumber: "8"
+phone: +33 3 80 65 80 08
+opening_hours: Mo-Th 08:30-12:00,14:00-18:30; Fr 08:30-12:00,14:00-17:30; Sa,Su,PH
+    off
+website: https://www.midas.fr/

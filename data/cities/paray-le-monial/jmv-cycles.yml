@@ -4,8 +4,9 @@ latitude: 46.45212
 longitude: 4.1089
 postcode: "71600"
 city: Paray-le-Monial
-street: "Rue Pierre Lathuilière"
-housenumber: 31
-phone: "+33 3 85 28 00 83"
-opening_hours: "May-Aug Tu-Sa 09:00-12:30,14:00-19:00; May-Aug Mo 14:00-19:00; Sep-Apr Tu-Sa 09:00-12:30,14:00-18:30"
+street: Rue Pierre Lathuilière
+housenumber: "31"
+phone: +33 3 85 28 00 83
+opening_hours: May-Aug Tu-Sa 09:00-12:30,14:00-19:00; May-Aug Mo 14:00-19:00; Sep-Apr
+    Tu-Sa 09:00-12:30,14:00-18:30
 website: ""

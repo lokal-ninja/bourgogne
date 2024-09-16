@@ -1,11 +1,11 @@
 id: 1004001048
-type: way
+type: node
 latitude: 46.43634
 longitude: 4.80133
 postcode: "71260"
 city: Péronne
-street: "Impasse de Prayes"
-housenumber: 26
-phone: "+33 3 85 33 33 37"
-opening_hours: "Mo-Th 9:30-19:15; Fr 9:30-21:15; Sa 10:15-21:15; Su 10:15-13:15"
-website: "https://rochebin-vins.com/"
+street: Impasse de Prayes
+housenumber: "26"
+phone: +33 3 85 33 33 37
+opening_hours: Mo-Th 9:30-19:15; Fr 9:30-21:15; Sa 10:15-21:15; Su 10:15-13:15
+website: https://rochebin-vins.com/

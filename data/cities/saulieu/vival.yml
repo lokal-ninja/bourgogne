@@ -4,8 +4,8 @@ latitude: 47.27916
 longitude: 4.22901
 postcode: "21210"
 city: Saulieu
-street: "Rue du Marché"
-housenumber: 8
+street: Rue du Marché
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://magasins.vival.fr/fr/s/vival-saulieu"
+opening_hours: Mo-Su 08:00-21:00
+website: https://magasins.vival.fr/fr/s/vival-saulieu

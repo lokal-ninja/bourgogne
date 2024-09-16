@@ -4,8 +4,8 @@ latitude: 46.28237
 longitude: 4.80677
 postcode: "71000"
 city: Mâcon
-street: "Rue Jacquard"
-housenumber: 448
-phone: "+33 3 85 29 23 76"
-opening_hours: "Mo-Sa 09:00-20:00; Su off"
-website: "https://www.leroymerlin.fr/magasins/macon.html"
+street: Rue Jacquard
+housenumber: "448"
+phone: +33 3 85 29 23 76
+opening_hours: Mo-Sa 09:00-20:00; Su off
+website: https://www.leroymerlin.fr/magasins/macon.html

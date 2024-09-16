@@ -4,8 +4,8 @@ latitude: 47.00054
 longitude: 3.17678
 postcode: "58660"
 city: Coulanges-lès-Nevers
-street: "Avenue du 8 Mai 1945"
-housenumber: 6
-phone: "+33 9 81 71 40 41"
+street: Avenue du 8 Mai 1945
+housenumber: "6"
+phone: +33 9 81 71 40 41
 opening_hours: ""
-website: "https://www.apyclic.fr/"
+website: https://www.apyclic.fr/

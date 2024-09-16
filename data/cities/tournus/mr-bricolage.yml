@@ -1,11 +1,11 @@
 id: 124178750
-type: way
+type: node
 latitude: 46.56412
 longitude: 4.90385
 postcode: "71700"
 city: Tournus
-street: "Rue de la Manu"
-housenumber: 
+street: Rue de la Manu
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-12:00,14:00-19:00"
+opening_hours: Mo-Sa 08:30-12:00,14:00-19:00
 website: ""

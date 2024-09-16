@@ -1,11 +1,11 @@
 id: 249323707
-type: way
+type: node
 latitude: 46.75402
 longitude: 5.25221
 postcode: "71330"
 city: SAINT GERMAIN DU BOIS
-street: "Rue des Métiers"
-housenumber: 15
+street: Rue des Métiers
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

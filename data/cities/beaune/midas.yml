@@ -4,8 +4,8 @@ latitude: 47.02164
 longitude: 4.83367
 postcode: "21200"
 city: Beaune
-street: "Boulevard Bretonnière"
-housenumber: 4
-phone: "+33 3 80 25 02 33"
+street: Boulevard Bretonnière
+housenumber: "4"
+phone: +33 3 80 25 02 33
 opening_hours: ""
-website: "https://www.midas.fr/"
+website: https://www.midas.fr/

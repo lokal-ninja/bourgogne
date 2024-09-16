@@ -4,8 +4,8 @@ latitude: 47.32054
 longitude: 5.03805
 postcode: "21000"
 city: Dijon
-street: "Rue Piron"
-housenumber: 22
-phone: "+33 3 80 30 18 64"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.bougies-charroux.com/magasins/11-dijon"
+street: Rue Piron
+housenumber: "22"
+phone: +33 3 80 30 18 64
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.bougies-charroux.com/magasins/11-dijon

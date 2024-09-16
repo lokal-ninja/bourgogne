@@ -4,8 +4,8 @@ latitude: 47.32569
 longitude: 5.03491
 postcode: "21000"
 city: Dijon
-street: "Rue Audra"
-housenumber: 6
-phone: "+33 3 80 43 46 06"
+street: Rue Audra
+housenumber: "6"
+phone: +33 3 80 43 46 06
 opening_hours: ""
-website: "https://www.dijonparquets.fr/"
+website: https://www.dijonparquets.fr/

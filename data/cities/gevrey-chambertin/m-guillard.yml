@@ -1,11 +1,11 @@
 id: 106931008
-type: way
+type: node
 latitude: 47.22594
 longitude: 4.96895
 postcode: "21220"
 city: Gevrey-Chambertin
-street: "Rue des Halles"
-housenumber: 3
+street: Rue des Halles
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

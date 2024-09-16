@@ -1,11 +1,11 @@
 id: 282535679
-type: way
+type: node
 latitude: 47.03357
 longitude: 3.14262
 postcode: "58640"
 city: Varennes-Vauzelles
-street: "Route de Paris"
-housenumber: 32
-phone: "+33 3 86 71 08 20"
+street: Route de Paris
+housenumber: "32"
+phone: +33 3 86 71 08 20
 opening_hours: ""
-website: "https://www.botanic.com/nos-magasins/botanic-varennes-vauzelles/var.html"
+website: https://www.botanic.com/nos-magasins/botanic-varennes-vauzelles/var.html

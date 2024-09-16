@@ -1,11 +1,11 @@
 id: 72798647
-type: way
+type: node
 latitude: 48.19863
 longitude: 3.29064
 postcode: "89100"
 city: Sens
-street: "Place des Héros"
-housenumber: 24
+street: Place des Héros
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

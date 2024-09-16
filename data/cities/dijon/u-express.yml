@@ -4,8 +4,8 @@ latitude: 47.30759
 longitude: 5.05791
 postcode: "21000"
 city: Dijon
-street: "Rue Albert et André Claudot"
-housenumber: 1
-phone: "+33 3 80 67 51 80"
-opening_hours: "Mo-Sa 08:30-19:30; Su 09:00-12:30"
-website: "https://www.magasins-u.com/magasin/uexpress-dijon"
+street: Rue Albert et André Claudot
+housenumber: "1"
+phone: +33 3 80 67 51 80
+opening_hours: Mo-Sa 08:30-19:30; Su 09:00-12:30
+website: https://www.magasins-u.com/magasin/uexpress-dijon

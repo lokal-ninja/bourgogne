@@ -1,11 +1,11 @@
 id: 184062212
-type: way
+type: node
 latitude: 46.80743
 longitude: 4.46403
 postcode: "71670"
 city: Le Breuil
-street: "Route de Couches"
-housenumber: 9
+street: Route de Couches
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

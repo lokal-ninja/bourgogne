@@ -4,8 +4,8 @@ latitude: 47.79709
 longitude: 3.57158
 postcode: "89000"
 city: Auxerre
-street: "Rue Fourier"
-housenumber: 12
-phone: "+33 3 86 51 23 56"
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "http://www.bourgogne-en-toute-simplicite.fr/"
+street: Rue Fourier
+housenumber: "12"
+phone: +33 3 86 51 23 56
+opening_hours: Mo-Sa 10:00-18:00
+website: http://www.bourgogne-en-toute-simplicite.fr/

@@ -4,8 +4,9 @@ latitude: 47.29464
 longitude: 5.02153
 postcode: "21300"
 city: Chenôve
-street: "Rue des Frères Montgolfier"
-housenumber: 10
-phone: "+33 3 80543472"
-opening_hours: "Mo 14:00-19:00; Tu-Fr 09:15-12:00,14:00-19:00; Sa 09:15-18:00; Su,PH off"
-website: "https://www.k21-moto.fr/"
+street: Rue des Frères Montgolfier
+housenumber: "10"
+phone: +33 3 80543472
+opening_hours: Mo 14:00-19:00; Tu-Fr 09:15-12:00,14:00-19:00; Sa 09:15-18:00; Su,PH
+    off
+website: https://www.k21-moto.fr/

@@ -1,11 +1,11 @@
 id: 209816283
-type: way
+type: node
 latitude: 46.79678
 longitude: 4.83433
 postcode: "71100"
 city: Chalon-sur-Saône
-street: "Avenue de l'Europe"
-housenumber: 
+street: Avenue de l'Europe
+housenumber: ""
 phone: ""
-opening_hours: "Mo - Th 8:30 - 21:00 ; Sa 8:30 - 20:00"
+opening_hours: Mo - Th 8:30 - 21:00 ; Sa 8:30 - 20:00
 website: ""

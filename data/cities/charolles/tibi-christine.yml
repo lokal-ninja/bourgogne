@@ -4,8 +4,9 @@ latitude: 46.43537
 longitude: 4.27533
 postcode: "71120"
 city: Charolles
-street: "Rue Général Leclerc"
-housenumber: 29
-phone: "+33 3 85 24 11 76"
-opening_hours: "Su 09:30-12:30; Mo off; Tu,Sa 09:00-12:00,14:30-18:30; We,Fr 09:00-12:00,14:30-19:00; Th 09:00-12:00"
+street: Rue Général Leclerc
+housenumber: "29"
+phone: +33 3 85 24 11 76
+opening_hours: Su 09:30-12:30; Mo off; Tu,Sa 09:00-12:00,14:30-18:30; We,Fr 09:00-12:00,14:30-19:00;
+    Th 09:00-12:00
 website: ""

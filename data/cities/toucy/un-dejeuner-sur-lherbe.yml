@@ -4,8 +4,8 @@ latitude: 47.73407
 longitude: 3.29375
 postcode: "89130"
 city: Toucy
-street: "Rue Paul Bert"
-housenumber: 8
+street: Rue Paul Bert
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://biotoucy.com/"
+website: https://biotoucy.com/

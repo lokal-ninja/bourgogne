@@ -1,11 +1,11 @@
 id: 282541810
-type: way
+type: node
 latitude: 47.04504
 longitude: 3.13328
 postcode: "58640"
 city: Varennes-Vauzelles
-street: "Route de la Bert"
-housenumber: 
-phone: "+33 3 86 71 83 83"
+street: Route de la Bert
+housenumber: ""
+phone: +33 3 86 71 83 83
 opening_hours: ""
-website: "https://groupebrochard.com/notre-reseau/nevers/"
+website: https://groupebrochard.com/notre-reseau/nevers/

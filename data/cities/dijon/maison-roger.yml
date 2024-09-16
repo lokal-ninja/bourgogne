@@ -4,8 +4,8 @@ latitude: 47.32673
 longitude: 5.05131
 postcode: "21000"
 city: Dijon
-street: "Rue de Colmar"
-housenumber: 3
+street: Rue de Colmar
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Su 07:00-13:00; Sa off"
+opening_hours: Mo-Fr 07:00-19:00; Su 07:00-13:00; Sa off
 website: ""

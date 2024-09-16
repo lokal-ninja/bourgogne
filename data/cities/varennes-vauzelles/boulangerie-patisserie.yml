@@ -1,11 +1,11 @@
 id: 282535726
-type: way
+type: node
 latitude: 47.00888
 longitude: 3.15238
 postcode: "58640"
 city: Varennes-Vauzelles
-street: "Boulevard Camille Dagonneau"
-housenumber: 18
-phone: "+33 3 86 57 59 76"
+street: Boulevard Camille Dagonneau
+housenumber: "18"
+phone: +33 3 86 57 59 76
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.33242
 longitude: 5.00997
 postcode: "21240"
 city: Talant
-street: "Rue de la Libération"
-housenumber: 42
-phone: "+33 3 45 34 03 25"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/contact-talant-liberation"
+street: Rue de la Libération
+housenumber: "42"
+phone: +33 3 45 34 03 25
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/contact-talant-liberation

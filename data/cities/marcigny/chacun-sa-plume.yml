@@ -4,8 +4,9 @@ latitude: 46.27464
 longitude: 4.04041
 postcode: "71110"
 city: Marcigny
-street: "Rue Chevalière"
-housenumber: 12
-phone: "+33 3 85252813"
-opening_hours: "Mo-Tu 08:30-12:00,14:30-19:00; We Off; Th-Sa 08:30-12:00,14:30-19:00; Su Off"
+street: Rue Chevalière
+housenumber: "12"
+phone: +33 3 85252813
+opening_hours: Mo-Tu 08:30-12:00,14:30-19:00; We Off; Th-Sa 08:30-12:00,14:30-19:00;
+    Su Off
 website: ""

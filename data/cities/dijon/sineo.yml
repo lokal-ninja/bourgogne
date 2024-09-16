@@ -4,8 +4,8 @@ latitude: 47.34737
 longitude: 5.07979
 postcode: "21000"
 city: Dijon
-street: "Rue Au Bouchet"
-housenumber: 4
+street: Rue Au Bouchet
+housenumber: "4"
 phone: "+33380790801"
-opening_hours: "Mo-Fr 08:30-12:00,12:30-17:00"
-website: "https://www.sineo.fr/"
+opening_hours: Mo-Fr 08:30-12:00,12:30-17:00
+website: https://www.sineo.fr/

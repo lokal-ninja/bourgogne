@@ -4,8 +4,8 @@ latitude: 47.32123
 longitude: 5.042
 postcode: "21000"
 city: Dijon
-street: "Place de la Libération"
-housenumber: 1
-phone: "+33 3 80 67 10 34"
-opening_hours: "Mo-Su 10:00-19:00"
-website: "https://www.auduchedebourgogne.com/"
+street: Place de la Libération
+housenumber: "1"
+phone: +33 3 80 67 10 34
+opening_hours: Mo-Su 10:00-19:00
+website: https://www.auduchedebourgogne.com/

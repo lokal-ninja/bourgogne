@@ -1,11 +1,11 @@
 id: 314540321
-type: way
+type: node
 latitude: 46.84662
 longitude: 3.41146
 postcode: "58300"
 city: Sougy-sur-Loire
-street: "Route de Genève"
-housenumber: 12
+street: Route de Genève
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:00; Mo-Sa 14:00-19:00; Su 10:00-12:00; Su 15:00-19:00"
+opening_hours: Mo-Sa 09:00-12:00; Mo-Sa 14:00-19:00; Su 10:00-12:00; Su 15:00-19:00
 website: ""

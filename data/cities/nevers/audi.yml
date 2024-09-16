@@ -1,11 +1,11 @@
 id: 126002022
-type: way
+type: node
 latitude: 46.98867
 longitude: 3.12403
 postcode: "58000"
 city: Nevers
-street: "Rond-Point Monte Cassino"
-housenumber: 
-phone: "+33 3 86 71 01 53"
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-19:00; Sa 09:00-12:00, 14:00-18:00"
-website: "https://www.suma-auto.com/nos-concessions/audi-nevers/"
+street: Rond-Point Monte Cassino
+housenumber: ""
+phone: +33 3 86 71 01 53
+opening_hours: Mo-Fr 08:00-12:00, 14:00-19:00; Sa 09:00-12:00, 14:00-18:00
+website: https://www.suma-auto.com/nos-concessions/audi-nevers/

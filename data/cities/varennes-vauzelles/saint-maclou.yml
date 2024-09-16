@@ -1,11 +1,11 @@
 id: 282540460
-type: way
+type: node
 latitude: 46.99669
 longitude: 3.12418
 postcode: "58640"
 city: Varennes-Vauzelles
-street: "Rue Henri Bouquillard"
-housenumber: 
-phone: "+33 3 86 23 92 92"
-opening_hours: "Mo-Sa 09:30-12:00,14:00-19:00"
-website: "https://www.saint-maclou.com/storelocator/index/view/id/183/"
+street: Rue Henri Bouquillard
+housenumber: ""
+phone: +33 3 86 23 92 92
+opening_hours: Mo-Sa 09:30-12:00,14:00-19:00
+website: https://www.saint-maclou.com/storelocator/index/view/id/183/

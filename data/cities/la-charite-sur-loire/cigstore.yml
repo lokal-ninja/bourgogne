@@ -4,8 +4,8 @@ latitude: 47.17726
 longitude: 3.01843
 postcode: "58400"
 city: La Charité-sur-Loire
-street: "Grande Rue"
-housenumber: 49
-phone: "+33 3 86 60 04 20"
-opening_hours: "Tu-Sa 10:00-12:30,13:30-19:00"
-website: "https://www.cig-store.com"
+street: Grande Rue
+housenumber: "49"
+phone: +33 3 86 60 04 20
+opening_hours: Tu-Sa 10:00-12:30,13:30-19:00
+website: https://www.cig-store.com

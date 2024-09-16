@@ -4,8 +4,8 @@ latitude: 46.30663
 longitude: 4.8272
 postcode: "71000"
 city: Mâcon
-street: "Rue Rambuteau"
-housenumber: 33
-phone: "+33 3 85 53 79 80"
-opening_hours: "Mo 14:00-19:00; Tu-Fr 10:00-12:00,14:00-19:00; Sa 10:00-12:00"
-website: "https://itdsystem.com/"
+street: Rue Rambuteau
+housenumber: "33"
+phone: +33 3 85 53 79 80
+opening_hours: Mo 14:00-19:00; Tu-Fr 10:00-12:00,14:00-19:00; Sa 10:00-12:00
+website: https://itdsystem.com/

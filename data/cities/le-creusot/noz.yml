@@ -1,11 +1,11 @@
 id: 840650120
-type: way
+type: node
 latitude: 46.79982
 longitude: 4.41338
 postcode: "71200"
 city: Le Creusot
-street: "Avenue du Stade Jean Garnier"
-housenumber: 2
+street: Avenue du Stade Jean Garnier
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.nozarrivages.com/magasin/le-creusot/"
+website: https://www.nozarrivages.com/magasin/le-creusot/

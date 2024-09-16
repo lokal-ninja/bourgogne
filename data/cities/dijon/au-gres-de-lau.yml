@@ -4,8 +4,8 @@ latitude: 47.33056
 longitude: 5.03866
 postcode: "21000"
 city: Dijon
-street: "Rue de Jouvence"
-housenumber: 24
-phone: "+33 7 71 21 32 48"
-opening_hours: "Tu-Sa 14:00-18:00"
-website: "https://www.augresdelau.fr/"
+street: Rue de Jouvence
+housenumber: "24"
+phone: +33 7 71 21 32 48
+opening_hours: Tu-Sa 14:00-18:00
+website: https://www.augresdelau.fr/

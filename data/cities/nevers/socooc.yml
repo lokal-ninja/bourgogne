@@ -1,11 +1,11 @@
 id: 126009470
-type: way
+type: node
 latitude: 46.99165
 longitude: 3.1237
 postcode: "58000"
 city: Nevers
-street: "Boulevard du Grand Pré des Bordes"
-housenumber: 24
-phone: "+33 3 86 36 04 26"
+street: Boulevard du Grand Pré des Bordes
+housenumber: "24"
+phone: +33 3 86 36 04 26
 opening_hours: ""
-website: "https://www.socooc.com/magasin/socooc-nevers"
+website: https://www.socooc.com/magasin/socooc-nevers

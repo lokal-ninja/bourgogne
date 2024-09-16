@@ -1,11 +1,11 @@
 id: 126164177
-type: way
+type: node
 latitude: 46.98999
 longitude: 3.12425
 postcode: "58000"
 city: Nevers
-street: "Boulevard du Grand Pré des Bordes"
-housenumber: 10
-phone: "+33 3 86 59 70 37"
+street: Boulevard du Grand Pré des Bordes
+housenumber: "10"
+phone: +33 3 86 59 70 37
 opening_hours: ""
-website: "https://www.bureau-vallee.fr/nos-magasins/magasin-nevers-NEV/"
+website: https://www.bureau-vallee.fr/nos-magasins/magasin-nevers-NEV/

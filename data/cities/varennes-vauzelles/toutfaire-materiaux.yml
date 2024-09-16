@@ -1,11 +1,11 @@
 id: 282540297
-type: way
+type: node
 latitude: 47.04226
 longitude: 3.12669
 postcode: "58640"
 city: Varennes-Vauzelles
-street: "Rue Voltaire"
-housenumber: 35
-phone: "+33 3 86 38 28 34"
+street: Rue Voltaire
+housenumber: "35"
+phone: +33 3 86 38 28 34
 opening_hours: ""
-website: "https://www.gillet-ste.fr/"
+website: https://www.gillet-ste.fr/

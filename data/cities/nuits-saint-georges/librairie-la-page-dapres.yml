@@ -4,8 +4,8 @@ latitude: 47.13649
 longitude: 4.94864
 postcode: "21700"
 city: Nuits-Saint-Georges
-street: "Grande Rue"
-housenumber: 8
+street: Grande Rue
+housenumber: "8"
 phone: "+33987040274"
-opening_hours: "Tu-Sa 09:30-12:30,13:30-18:30"
+opening_hours: Tu-Sa 09:30-12:30,13:30-18:30
 website: ""

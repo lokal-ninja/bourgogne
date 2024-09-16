@@ -1,11 +1,12 @@
 id: 125711284
-type: way
+type: node
 latitude: 47.33989
 longitude: 5.07091
 postcode: "21850"
 city: Saint-Apollinaire
-street: "Rue de Bastogne"
-housenumber: 2
-phone: "+333 80 73 99 73"
-opening_hours: "Mo-Th 08:00-12:00,14:00-18:00; Fr 08:00-12:00,14:00-17:00; Sa,Su,PH off"
-website: "https://distributeur.groupauto.fr/529-comptoir-du-frein-st-apollinaire-vl"
+street: Rue de Bastogne
+housenumber: "2"
+phone: +333 80 73 99 73
+opening_hours: Mo-Th 08:00-12:00,14:00-18:00; Fr 08:00-12:00,14:00-17:00; Sa,Su,PH
+    off
+website: https://distributeur.groupauto.fr/529-comptoir-du-frein-st-apollinaire-vl

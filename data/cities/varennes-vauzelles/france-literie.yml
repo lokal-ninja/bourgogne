@@ -1,11 +1,11 @@
 id: 282537811
-type: way
+type: node
 latitude: 47.01793
 longitude: 3.14807
 postcode: "58640"
 city: Varennes-Vauzelles
-street: "Avenue du Général de Gaulle"
-housenumber: 6
-phone: "+33 3 86 38 07 28"
+street: Avenue du Général de Gaulle
+housenumber: "6"
+phone: +33 3 86 38 07 28
 opening_hours: ""
-website: "https://www.france-literie.fr/magasins-literie/france-literie-nevers/"
+website: https://www.france-literie.fr/magasins-literie/france-literie-nevers/

@@ -4,8 +4,9 @@ latitude: 47.32435
 longitude: 5.04482
 postcode: "21000"
 city: Dijon
-street: "Rue Jean-Jacques Rousseau"
-housenumber: 65
-phone: "+33 3 80 30 96 07"
-opening_hours: "Tu-Fr 09:00-12:00, 14:00-19:00; Sa 09:00-12:00, 14:00-18:30; Su-Mo off"
+street: Rue Jean-Jacques Rousseau
+housenumber: "65"
+phone: +33 3 80 30 96 07
+opening_hours: Tu-Fr 09:00-12:00, 14:00-19:00; Sa 09:00-12:00, 14:00-18:30; Su-Mo
+    off
 website: ""

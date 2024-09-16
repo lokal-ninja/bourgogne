@@ -4,8 +4,8 @@ latitude: 47.31188
 longitude: 5.05216
 postcode: "21000"
 city: Dijon
-street: "Rue d'Auxonne"
-housenumber: 121
-phone: "+33 3 80 65 18 88"
-opening_hours: "Tu-Sa 09:30-12:00, Tu-Fr 14:00-19:00"
-website: "https://www.cycles-degueurce.fr/"
+street: Rue d'Auxonne
+housenumber: "121"
+phone: +33 3 80 65 18 88
+opening_hours: Tu-Sa 09:30-12:00, Tu-Fr 14:00-19:00
+website: https://www.cycles-degueurce.fr/

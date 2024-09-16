@@ -1,11 +1,11 @@
 id: 306605094
-type: way
+type: node
 latitude: 47.00486
 longitude: 3.09526
 postcode: "58180"
 city: Marzy
-street: "Route de Tazière"
-housenumber: 56
-phone: "+33 3 86 58 80 73"
+street: Route de Tazière
+housenumber: "56"
+phone: +33 3 86 58 80 73
 opening_hours: ""
-website: "https://paviola.e-monsite.com/"
+website: https://paviola.e-monsite.com/

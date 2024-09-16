@@ -4,8 +4,8 @@ latitude: 47.3246
 longitude: 5.04276
 postcode: "21000"
 city: Dijon
-street: "Rue d'Assas"
-housenumber: 30
+street: Rue d'Assas
+housenumber: "30"
 phone: "+33612529330"
 opening_hours: ""
-website: "http://bibibob.fr"
+website: http://bibibob.fr

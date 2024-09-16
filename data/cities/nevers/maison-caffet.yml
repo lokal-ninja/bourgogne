@@ -4,8 +4,8 @@ latitude: 46.98924
 longitude: 3.1624
 postcode: "58000"
 city: Nevers
-street: "Rue de la Pelleterie"
-housenumber: 5
-phone: "+33 3 58 76 02 75"
-opening_hours: "Tu-Fr 09:30-12:30, 14:30-19:30; Sa 09:30-19:30"
-website: "https://www.maison-caffet.com/maison-caffet-nevers"
+street: Rue de la Pelleterie
+housenumber: "5"
+phone: +33 3 58 76 02 75
+opening_hours: Tu-Fr 09:30-12:30, 14:30-19:30; Sa 09:30-19:30
+website: https://www.maison-caffet.com/maison-caffet-nevers

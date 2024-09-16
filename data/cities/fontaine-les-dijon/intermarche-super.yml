@@ -1,11 +1,11 @@
 id: 63108854
-type: way
+type: node
 latitude: 47.33651
 longitude: 5.03062
 postcode: "21121"
 city: Fontaine-lès-Dijon
-street: "Rue du Faubourg Saint-Nicolas"
-housenumber: 26
-phone: "+33 3 80 58 41 58"
-opening_hours: "Mo-Sa 08:00-19:30; Su 09:00-12:30"
-website: "https://www.intermarche.com/magasins/07203/fontaine-les-dijon-21121/infos-pratiques"
+street: Rue du Faubourg Saint-Nicolas
+housenumber: "26"
+phone: +33 3 80 58 41 58
+opening_hours: Mo-Sa 08:00-19:30; Su 09:00-12:30
+website: https://www.intermarche.com/magasins/07203/fontaine-les-dijon-21121/infos-pratiques

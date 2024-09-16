@@ -1,11 +1,11 @@
 id: 254701101
-type: way
+type: node
 latitude: 47.28512
 longitude: 5.01029
 postcode: "21300"
 city: Chenôve
-street: "Avenue Roland Carraz"
-housenumber: 134
+street: Avenue Roland Carraz
+housenumber: "134"
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu-Fr 09:00-12:00, 14:00-18:30; Sa 09:00-12:00, 14:00-18:00"
-website: "https://monsieurstore.com/magasin/dijon-21300/"
+opening_hours: Mo 14:00-19:00; Tu-Fr 09:00-12:00, 14:00-18:30; Sa 09:00-12:00, 14:00-18:00
+website: https://monsieurstore.com/magasin/dijon-21300/

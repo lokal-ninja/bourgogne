@@ -1,11 +1,11 @@
 id: 147980791
-type: way
+type: node
 latitude: 47.52708
 longitude: 5.1133
 postcode: "21120"
 city: Is-sur-Tille
-street: "Rue François Mitterrand"
-housenumber: 14
+street: Rue François Mitterrand
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

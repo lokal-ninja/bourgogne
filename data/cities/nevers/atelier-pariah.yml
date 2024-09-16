@@ -1,11 +1,11 @@
 id: 126157837
-type: way
+type: node
 latitude: 46.9936
 longitude: 3.16694
 postcode: "58000"
 city: Nevers
-street: "Place Chaméane"
-housenumber: 33
-phone: "+33.6 75 79 09 10"
+street: Place Chaméane
+housenumber: "33"
+phone: +33.6 75 79 09 10
 opening_hours: ""
-website: "https://www.atelierpariah.com/"
+website: https://www.atelierpariah.com/

@@ -1,11 +1,11 @@
 id: 282541729
-type: way
+type: node
 latitude: 47.02433
 longitude: 3.15043
 postcode: "58640"
 city: Varennes-Vauzelles
-street: "Rue Gay Lussac"
-housenumber: 14
-phone: "+33 3 86 90 14 90"
+street: Rue Gay Lussac
+housenumber: "14"
+phone: +33 3 86 90 14 90
 opening_hours: ""
 website: ""

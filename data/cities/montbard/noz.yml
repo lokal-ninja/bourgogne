@@ -1,11 +1,11 @@
 id: 117869740
-type: way
+type: node
 latitude: 47.62109
 longitude: 4.34441
 postcode: "21500"
 city: Montbard
-street: "Rue Saint-Roch"
-housenumber: 
+street: Rue Saint-Roch
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.nozarrivages.com/magasin/montbard/"
+website: https://www.nozarrivages.com/magasin/montbard/

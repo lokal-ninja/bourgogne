@@ -1,11 +1,11 @@
 id: 129837780
-type: way
+type: node
 latitude: 47.00542
 longitude: 3.39795
 postcode: "58270"
 city: Saint-Benin-d'Azy
-street: "Rue de la Badelle"
-housenumber: 
+street: Rue de la Badelle
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:30, 14:30-19:00; Su 09:00-12:15"
-website: "https://www.intermarche.com/magasins/50264/saint-benin-d-azy-58270/infos-pratiques"
+opening_hours: Mo-Sa 09:00-12:30, 14:30-19:00; Su 09:00-12:15
+website: https://www.intermarche.com/magasins/50264/saint-benin-d-azy-58270/infos-pratiques

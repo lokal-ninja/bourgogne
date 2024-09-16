@@ -4,8 +4,8 @@ latitude: 47.34762
 longitude: 5.06471
 postcode: "21000"
 city: Dijon
-street: "Rue de Cluj"
-housenumber: 2
+street: Rue de Cluj
+housenumber: "2"
 phone: "+33380735410"
-opening_hours: "Mo-Fr 07:30-12:00,13:30-17:45; Sa 08:00-12:00"
-website: "https://www.pagot-savoie.fr/"
+opening_hours: Mo-Fr 07:30-12:00,13:30-17:45; Sa 08:00-12:00
+website: https://www.pagot-savoie.fr/

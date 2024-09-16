@@ -1,11 +1,11 @@
 id: 121737301
-type: way
+type: node
 latitude: 47.31554
 longitude: 5.08856
 postcode: "21800"
 city: Quetigny
-street: "Rond-Point des Sports"
-housenumber: 1
-phone: "+33 3 80 35 25 40"
-opening_hours: "Mo-Sa 09:00-19:30; Su off"
-website: "https://www.decathlon.fr/store-view/magasin-de-sports-dijon-quetigny-0070002800028"
+street: Rond-Point des Sports
+housenumber: "1"
+phone: +33 3 80 35 25 40
+opening_hours: Mo-Sa 09:00-19:30; Su off
+website: https://www.decathlon.fr/store-view/magasin-de-sports-dijon-quetigny-0070002800028

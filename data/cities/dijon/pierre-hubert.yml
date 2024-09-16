@@ -1,11 +1,11 @@
 id: 825403769
-type: way
+type: node
 latitude: 47.34097
 longitude: 5.06126
 postcode: "21000"
 city: Dijon
-street: "Rue Docteur Stein"
-housenumber: 10
-phone: "+33 3 80 73 17 08"
-opening_hours: "We-Sa 10:00-13:30 15:30-19:00"
-website: "https://www.pierre-hubert.fr/"
+street: Rue Docteur Stein
+housenumber: "10"
+phone: +33 3 80 73 17 08
+opening_hours: We-Sa 10:00-13:30 15:30-19:00
+website: https://www.pierre-hubert.fr/

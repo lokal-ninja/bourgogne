@@ -4,8 +4,8 @@ latitude: 47.02274
 longitude: 4.83855
 postcode: "21200"
 city: Beaune
-street: "Place Carnot"
-housenumber: 7
-phone: "+33 3 80 24 73 51"
-opening_hours: "Mo-Sa 09:00-13:00,14:30-17:45"
-website: "https://fromageriealainhess.com/fr/"
+street: Place Carnot
+housenumber: "7"
+phone: +33 3 80 24 73 51
+opening_hours: Mo-Sa 09:00-13:00,14:30-17:45
+website: https://fromageriealainhess.com/fr/

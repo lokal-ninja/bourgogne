@@ -1,11 +1,11 @@
 id: 775632610
-type: way
+type: node
 latitude: 47.01817
 longitude: 3.15048
 postcode: "58640"
 city: Varennes-Vauzelles
-street: "Boulevard Camille Dagonneau"
-housenumber: 70
-phone: "+33 3 86 57 03 25"
+street: Boulevard Camille Dagonneau
+housenumber: "70"
+phone: +33 3 86 57 03 25
 opening_hours: ""
-website: "https://www.but.fr/magasins/115/But-Nevers.html"
+website: https://www.but.fr/magasins/115/But-Nevers.html

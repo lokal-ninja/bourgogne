@@ -1,11 +1,11 @@
 id: 183012666
-type: way
+type: node
 latitude: 47.24584
 longitude: 5.21925
 postcode: "21110"
 city: Genlis
-street: "Rue de la Gare"
-housenumber: 
+street: Rue de la Gare
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

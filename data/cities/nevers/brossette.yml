@@ -1,11 +1,11 @@
 id: 126002196
-type: way
+type: node
 latitude: 46.99173
 longitude: 3.17119
 postcode: "58000"
 city: Nevers
-street: "Boulevard de la République"
-housenumber: 9
-phone: "+33 3 86 57 17 41"
+street: Boulevard de la République
+housenumber: "9"
+phone: +33 3 86 57 17 41
 opening_hours: ""
 website: ""

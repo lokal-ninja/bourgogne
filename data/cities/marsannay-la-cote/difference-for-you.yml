@@ -1,11 +1,11 @@
 id: 158672577
-type: way
+type: node
 latitude: 47.26895
 longitude: 5.00087
 postcode: "21160"
 city: Marsannay-la-Côte
-street: "Route de Beaune"
-housenumber: 89
-phone: "+33 9 74 56 20 93"
+street: Route de Beaune
+housenumber: "89"
+phone: +33 9 74 56 20 93
 opening_hours: ""
-website: "https://www.difference-for-you.fr/"
+website: https://www.difference-for-you.fr/

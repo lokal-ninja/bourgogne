@@ -4,8 +4,9 @@ latitude: 46.65674
 longitude: 4.33444
 postcode: "71300"
 city: Montceau-les-Mines
-street: "Rue Guillaume Apollinaire"
-housenumber: 
-phone: "+33 3 85 79 32 33"
-opening_hours: "Mo 09:00-12:00, 14:00-18:00; Tu-Fr 08:00-12:00, 14:00-18:00; Sa 09:00-12:00, 14:00-17:00"
-website: "https://www.garage-lamalle.com/"
+street: Rue Guillaume Apollinaire
+housenumber: ""
+phone: +33 3 85 79 32 33
+opening_hours: Mo 09:00-12:00, 14:00-18:00; Tu-Fr 08:00-12:00, 14:00-18:00; Sa 09:00-12:00,
+    14:00-17:00
+website: https://www.garage-lamalle.com/
