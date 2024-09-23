@@ -2,5 +2,5 @@
 title: Sens
 url: /sens/
 latitude: 48.198
-longitude: 3.282
+longitude: 3.272
 ---
