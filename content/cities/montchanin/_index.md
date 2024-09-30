@@ -1,6 +1,6 @@
 ---
 title: Montchanin
 url: /montchanin/
-latitude: 46.735
-longitude: 4.478
+latitude: 46.749
+longitude: 4.469
 ---
