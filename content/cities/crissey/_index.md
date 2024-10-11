@@ -1,6 +1,6 @@
 ---
 title: Crissey
 url: /crissey/
-latitude: 46.826
-longitude: 4.897
+latitude: 46.829
+longitude: 4.867
 ---
