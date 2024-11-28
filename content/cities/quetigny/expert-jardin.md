@@ -1,5 +1,5 @@
 ---
 title: "Expert Jardin"
-url: /varennes-vauzelles/expert-jardin/
+url: /quetigny/expert-jardin/
 shop: machines de jardinage
 ---
