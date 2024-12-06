@@ -1,5 +1,5 @@
 ---
-title: "Depil Tech"
+title: "Dépil Tech"
 url: /dijon/depil-tech/
 shop: beauté
 ---
