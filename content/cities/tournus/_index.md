@@ -1,6 +1,6 @@
 ---
 title: Tournus
 url: /tournus/
-latitude: 46.563
-longitude: 4.912
+latitude: 46.562
+longitude: 4.913
 ---
