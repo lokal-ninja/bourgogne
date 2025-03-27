@@ -1,5 +1,5 @@
 ---
-title: "Bijouterie Pierre Lacagne"
+title: "Bijouterie Pierre LACAGNE"
 url: /beaune/bijouterie-pierre-lacagne/
 shop: bijoux
 ---
