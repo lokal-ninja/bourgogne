@@ -1,6 +1,6 @@
 ---
 title: Arcy-sur-Cure
 url: /arcy-sur-cure/
-latitude: 47.602
-longitude: 3.756
+latitude: 47.557
+longitude: 3.738
 ---
