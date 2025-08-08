@@ -1,6 +1,6 @@
 ---
 title: Montcenis
 url: /montcenis/
-latitude: 46.793
-longitude: 4.386
+latitude: 46.788
+longitude: 4.387
 ---

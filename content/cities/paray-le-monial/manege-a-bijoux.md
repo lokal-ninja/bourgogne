@@ -1,5 +1,5 @@
 ---
-title: "Manège à bijoux"
+title: "Manège à Bijoux"
 url: /paray-le-monial/manege-a-bijoux/
 shop: bijoux
 ---

@@ -1,6 +1,6 @@
 ---
-title: Chalon-sur-Saône
+title: Chalon sur Saône
 url: /chalon-sur-saone/
-latitude: 46.773
-longitude: 4.866
+latitude: 46.782
+longitude: 4.845
 ---

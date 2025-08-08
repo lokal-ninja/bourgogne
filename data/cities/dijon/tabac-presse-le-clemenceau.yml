@@ -7,5 +7,5 @@ city: Dijon
 street: Rue de Colmar
 housenumber: "3"
 phone: +333 80 74 32 36
-opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-12:30; PH,Su off
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-12:30; Su,PH off
 website: ""

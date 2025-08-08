@@ -1,5 +1,5 @@
 ---
 title: "Gedimat"
 url: /charolles/gedimat/
-shop: matériel informatique
+shop: à faire soi-même
 ---
