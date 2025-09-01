@@ -1,6 +1,6 @@
 ---
 title: Decize
 url: /decize/
-latitude: 46.829
-longitude: 3.462
+latitude: 46.828
+longitude: 3.461
 ---
