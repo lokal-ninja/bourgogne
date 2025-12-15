@@ -1,6 +1,6 @@
 ---
 title: Selongey
 url: /selongey/
-latitude: 47.586
-longitude: 5.187
+latitude: 47.58
+longitude: 5.168
 ---
