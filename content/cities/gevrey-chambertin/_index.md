@@ -1,6 +1,6 @@
 ---
 title: Gevrey-Chambertin
 url: /gevrey-chambertin/
-latitude: 47.218
-longitude: 5.003
+latitude: 47.226
+longitude: 4.97
 ---
