@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
-url: /varennes-vauzelles/aldi/
+url: /nevers/aldi/
 shop: supermarché
 ---
