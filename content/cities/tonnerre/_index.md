@@ -1,6 +1,6 @@
 ---
 title: Tonnerre
 url: /tonnerre/
-latitude: 47.855
+latitude: 47.858
 longitude: 3.973
 ---
