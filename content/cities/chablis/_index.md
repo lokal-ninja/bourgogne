@@ -1,6 +1,6 @@
 ---
 title: Chablis
 url: /chablis/
-latitude: 47.813
+latitude: 47.815
 longitude: 3.801
 ---
