@@ -1,5 +1,5 @@
 ---
-title: "Au grès de Lau"
+title: "Au Grès de Lau"
 url: /dijon/au-gres-de-lau/
 shop: poterie
 ---

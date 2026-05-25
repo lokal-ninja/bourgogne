@@ -1,5 +1,5 @@
 ---
-title: "Le coin des arts Dalbe"
+title: "Le Coin des Arts - Dalbe"
 url: /dijon/le-coin-des-arts-dalbe/
 shop: artisanat
 ---

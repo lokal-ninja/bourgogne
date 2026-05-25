@@ -1,6 +1,6 @@
 ---
 title: Dijon
 url: /dijon/
-latitude: 47.327
-longitude: 5.049
+latitude: 47.319
+longitude: 5.026
 ---
