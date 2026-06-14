@@ -1,6 +1,6 @@
 ---
 title: Montbard
 url: /montbard/
-latitude: 47.621
-longitude: 4.344
+latitude: 47.623
+longitude: 4.339
 ---

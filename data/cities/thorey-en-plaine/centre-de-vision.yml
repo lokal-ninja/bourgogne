@@ -7,5 +7,5 @@ city: Thorey-en-Plaine
 street: Route de Dijon
 housenumber: 37A
 phone: +33 3 79 36 28 04
-opening_hours: Mo-Fr 09:30-12:30 14:00-18:30 Sa 09:30-12:30 14:00-16:00
+opening_hours: Mo-Fr 09:30-12:30,14:00-18:30; Sa 09:30-12:30,14:00-16:00
 website: ""
