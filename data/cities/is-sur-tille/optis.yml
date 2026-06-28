@@ -7,7 +7,7 @@ city: Is-sur-Tille
 street: Avenue Carnot
 housenumber: "2"
 phone: +33 3 80 75 32 05
-opening_hours: "dimanche\tFermé lundi\t14:00–19:00 mardi\t09:00–12:00 14:00–19:00
-    mercredi\t09:00–12:00 14:00–19:00 jeudi\t09:00–12:00 14:00–19:00 vendredi\t09:00–12:00
-    14:00–19:00 samedi\t09:00–12:00 14:00–17:30"
+opening_hours: dimanche Fermé lundi 14:00-19:00 mardi 09:00-12:00 14:00-19:00 mercredi
+    09:00-12:00 14:00-19:00 jeudi 09:00-12:00 14:00-19:00 vendredi 09:00-12:00 14:00-19:00
+    samedi 09:00-12:00 14:00-17:30
 website: ""
