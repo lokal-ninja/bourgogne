@@ -1,5 +1,5 @@
 ---
 title: "Extra - Philibert Elec"
-url: /saint-christophe-en-brionnais/extra-philibert-elec/
+url: /st-christophe-en-brionnais/extra-philibert-elec/
 shop: électronique
 ---
