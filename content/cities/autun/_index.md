@@ -2,5 +2,5 @@
 title: Autun
 url: /autun/
 latitude: 46.957
-longitude: 4.304
+longitude: 4.298
 ---
