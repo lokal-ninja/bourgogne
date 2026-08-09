@@ -1,5 +1,5 @@
 ---
-title: "A la cave"
+title: "À la cave"
 url: /decize/a-la-cave/
 shop: vin
 ---

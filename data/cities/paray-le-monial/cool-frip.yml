@@ -7,6 +7,5 @@ city: Paray-le-Monial
 street: Rue Paul Cazin
 housenumber: 8 E
 phone: ""
-opening_hours: mardi, jeudi, vendredi, samedi de 10h à 18h (sans interruption) et
-    le mercredi de 10h à 19h
+opening_hours: Tu,Th,Fr,Sa 10:00-18:00; We 10:00-19:00
 website: https://www.coolfrip.com/
