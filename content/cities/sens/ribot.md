@@ -1,5 +1,5 @@
 ---
 title: "Ribot"
 url: /sens/ribot/
-shop: chimiste
+shop: peinture
 ---
