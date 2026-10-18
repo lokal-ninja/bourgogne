@@ -7,5 +7,5 @@ city: Nevers
 street: Rue des Docks
 housenumber: "2"
 phone: +33 3 71 42 02 19
-opening_hours: Mo-Su 06:30-20:00
-website: ""
+opening_hours: Mo-Sa 06:30-20:00; Su 08:00-20:00
+website: https://etablissements.groupe-feuillette.fr/etablissement/boulangerie-feuillette-nevers
