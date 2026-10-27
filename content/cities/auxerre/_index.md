@@ -1,6 +1,6 @@
 ---
 title: Auxerre
 url: /auxerre/
-latitude: 47.795
-longitude: 3.565
+latitude: 47.796
+longitude: 3.571
 ---
